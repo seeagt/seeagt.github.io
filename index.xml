@@ -207,73 +207,59 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 &lt;p&gt;The SEEA AFF aims to keep track of the following data domains and base accounts:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Agricultural products and related environmental assets
-
-&lt;ul&gt;
-&lt;li&gt;Physical flow account for crops&lt;/li&gt;
-&lt;li&gt;Physical flow account for livestock products&lt;/li&gt;
-&lt;li&gt;Asset account for livestock&lt;/li&gt;
-&lt;li&gt;Asset account for plantation crops&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Forestry products and related environmental assets
-
-&lt;ul&gt;
-&lt;li&gt;Physical flow account for timber and non-wood forest products&lt;/li&gt;
-&lt;li&gt;Asset account for forests&lt;/li&gt;
-&lt;li&gt;Asset account for timber resources&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Fisheries products and related environmental assets
-
-&lt;ul&gt;
-&lt;li&gt;Physical flow account for fish and aquatic products&lt;/li&gt;
-&lt;li&gt;Asset account for fish and other aquatic resources&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Water resources
-
-&lt;ul&gt;
-&lt;li&gt;Asset account for water resources&lt;/li&gt;
-&lt;li&gt;Physical flow account for water abstraction&lt;/li&gt;
-&lt;li&gt;Physical flow account for water distribution and use&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Energy
-
-&lt;ul&gt;
-&lt;li&gt;Physical flow account for energy use&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Greenhouse Gas GHG emissions
-
-&lt;ul&gt;
-&lt;li&gt;Physical flow account for GHG emissions&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Fertilizers, nutrient flows and pesticides
-*Physical flow account for fertilizers&lt;/li&gt;
-&lt;li&gt;Nitrogen and phosphorous budgets
-
-&lt;ul&gt;
-&lt;li&gt;Physical flow account for pesticides&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Land
-
-&lt;ul&gt;
-&lt;li&gt;Asset account for land use&lt;/li&gt;
-&lt;li&gt;Asset account for land cover&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Soil resources
-
-&lt;ul&gt;
-&lt;li&gt;Asset account for soil resources&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Other economic data
-
-&lt;ul&gt;
-&lt;li&gt;Monetary supply and use table for agricultural, forestry and fisheries products&lt;/li&gt;
-&lt;li&gt;Extended production and income account for agricultural, forestry and fisheries activities&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Agricultural products and related environmental assets&lt;/li&gt;
+&lt;li&gt;Forestry products and related environmental assets&lt;/li&gt;
+&lt;li&gt;Fisheries products and related environmental assets&lt;/li&gt;
+&lt;li&gt;Water resources&lt;/li&gt;
+&lt;li&gt;Energy&lt;/li&gt;
+&lt;li&gt;Greenhouse Gas GHG emissions&lt;/li&gt;
+&lt;li&gt;Fertilizers, nutrient flows and pesticides&lt;/li&gt;
+&lt;li&gt;Nitrogen and phosphorous budgets&lt;/li&gt;
+&lt;li&gt;Land&lt;/li&gt;
+&lt;li&gt;Soil resources&lt;/li&gt;
+&lt;li&gt;Other economic data&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;has-it-already-been-done-for-guatemala:45af15fedfdd005d7e7870f81b067efc&#34;&gt;Has it already been done for Guatemala?&lt;/h2&gt;
+&lt;!-- 
+    
+* Agricultural products and related environmental assets
+    * Physical flow account for crops
+    * Physical flow account for livestock products
+    * Asset account for livestock
+    * Asset account for plantation crops
+* Forestry products and related environmental assets
+    * Physical flow account for timber and non-wood forest products
+    * Asset account for forests
+    * Asset account for timber resources
+* Fisheries products and related environmental assets
+    * Physical flow account for fish and aquatic products
+    * Asset account for fish and other aquatic resources
+* Water resources 
+    * Asset account for water resources
+    * Physical flow account for water abstraction
+    * Physical flow account for water distribution and use
+* Energy 
+    * Physical flow account for energy use
+* Greenhouse Gas GHG emissions
+    * Physical flow account for GHG emissions
+* Fertilizers, nutrient flows and pesticides
+    *Physical flow account for fertilizers
+* Nitrogen and phosphorous budgets
+    * Physical flow account for pesticides
+* Land
+    * Asset account for land use
+    * Asset account for land cover
+* Soil resources
+    * Asset account for soil resources 
+* Other economic data
+    * Monetary supply and use table for agricultural, forestry and fisheries products
+    * Extended production and income account for agricultural, forestry and fisheries activities
 
-&lt;p&gt;We have conducted a trial run of SEEA AFF in Guatemala with the existing information of the SEEA Central Framework already present for 2010 in order to assess what was possible and identify information gaps that need to be worked on in more detail. Nonetheless, some of the preliminary findings are already revealing.&lt;/p&gt;
+--&gt;
+
+&lt;h2 id=&#34;has-it-already-been-put-together-for-guatemala:45af15fedfdd005d7e7870f81b067efc&#34;&gt;Has it already been put together for Guatemala?&lt;/h2&gt;
+
+&lt;p&gt;Guatemala became one of the test cases of SEEA AFF and we conducted a pilot compilation with existing information of the SEEA Central Framework already present for 2010, in order to assess what was possible and identify information gaps on which more detailed work is needed. Nonetheless, some of the preliminary findings are already revealing.&lt;/p&gt;
 
 &lt;h2 id=&#34;what-do-we-know-about-crops-then:45af15fedfdd005d7e7870f81b067efc&#34;&gt;What do we know about crops then?&lt;/h2&gt;
 
@@ -283,25 +269,72 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 
 &lt;p&gt;The external dependency of several products is also noteworthy. For example, most wheat was imported (99.7%). Also, 70% of unprocessed rice came from imports also. As much as maize has been a part of the Guatemalan diet for centuries, about 21% of it was imported. And even if supply of soy might not be important in terms of volume, a third of it came from imports.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;[Table 1. Physical supply account for crops. ABOUT HERE]&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
 
-&lt;p&gt;In terms of use of the same products, we grouped economic activities in a way that would make it more easy to identify the steps of the food production chain. For that reason, we have industries that use crops as seed inputs, others that use it as feed for animals, we have the industrial production of food, hotels and restaurants, the remaining industries of Guatemala, households and exports.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Table 1. Physical supply account for crops in 2010. (metric tons)&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Grouping industries that would naturally use crops as feed had the intention of addressing the concern of large portions of the earth&amp;rsquo;s surface being cleared for the production of animal feed. Table 2 shows that the largest users of agricultural supply were manufactures, households, and the rest of the world (exports); not industries for feed. It would be reasonable to think that grain would be used by manufactures for the production of animal foods, but as we&amp;rsquo;ll see volumes of those products were not relevant in the data.&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34;&gt;
+&lt;tr&gt;&lt;th&gt; &lt;/th&gt;&lt;th&gt;Agricultural industries&lt;/th&gt;&lt;th&gt;Manufactures and others&lt;/th&gt;&lt;th&gt;Imports&lt;/th&gt;&lt;th&gt;Total&lt;/th&gt;&lt;/tr&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Coffee&lt;/td&gt;&lt;td&gt;242,595&lt;/td&gt;&lt;td&gt;244&lt;/td&gt;&lt;td&gt;39&lt;/td&gt;&lt;td&gt;242,877&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Bananas&lt;/td&gt;&lt;td&gt;2,637,570&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;2,136&lt;/td&gt;&lt;td&gt;2,639,706&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Cardamum&lt;/td&gt;&lt;td&gt;22,556&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;22,592&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Maize&lt;/td&gt;&lt;td&gt;2,327,800&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;630,100&lt;/td&gt;&lt;td&gt;2,957,901&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Sorgo&lt;/td&gt;&lt;td&gt;47,407&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;89&lt;/td&gt;&lt;td&gt;47,496&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Rice&lt;/td&gt;&lt;td&gt;29,593&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;67,585&lt;/td&gt;&lt;td&gt;97,177&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Wheat&lt;/td&gt;&lt;td&gt;1,493&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;492,356&lt;/td&gt;&lt;td&gt;493,849&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Other cereals&lt;/td&gt;&lt;td&gt;21,459&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;2,876&lt;/td&gt;&lt;td&gt;24,334&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Beans&lt;/td&gt;&lt;td&gt;441,066&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;23,900&lt;/td&gt;&lt;td&gt;464,966&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Other legumes&lt;/td&gt;&lt;td&gt;24,119&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;226&lt;/td&gt;&lt;td&gt;24,345&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Potatoes&lt;/td&gt;&lt;td&gt;480,994&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;3,905&lt;/td&gt;&lt;td&gt;484,899&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Other roots and tubers&lt;/td&gt;&lt;td&gt;17,619&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;17,623&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Green peas&lt;/td&gt;&lt;td&gt;47,763&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;22&lt;/td&gt;&lt;td&gt;47,785&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Broccoli&lt;/td&gt;&lt;td&gt;56,808&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;49&lt;/td&gt;&lt;td&gt;56,857&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Cabbage&lt;/td&gt;&lt;td&gt;33,491&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;435&lt;/td&gt;&lt;td&gt;33,926&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Green beans&lt;/td&gt;&lt;td&gt;13,744&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1,748&lt;/td&gt;&lt;td&gt;15,492&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Culinary herbs, flowers and edible leaves&lt;/td&gt;&lt;td&gt;5,800&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;5,800&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Other vegetables&lt;/td&gt;&lt;td&gt;1,362,470&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;32,030&lt;/td&gt;&lt;td&gt;1,394,501&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Melon&lt;/td&gt;&lt;td&gt;480,434&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;378&lt;/td&gt;&lt;td&gt;480,812&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Mango&lt;/td&gt;&lt;td&gt;105,909&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;74&lt;/td&gt;&lt;td&gt;105,983&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Berries&lt;/td&gt;&lt;td&gt;19,412&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;19,412&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Other fruits and nuts&lt;/td&gt;&lt;td&gt;984,820&lt;/td&gt;&lt;td&gt;64&lt;/td&gt;&lt;td&gt;84,264&lt;/td&gt;&lt;td&gt;1,069,148&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Sesame seed&lt;/td&gt;&lt;td&gt;38,194&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;8,764&lt;/td&gt;&lt;td&gt;46,958&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Soybeans&lt;/td&gt;&lt;td&gt;7,755&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;3,813&lt;/td&gt;&lt;td&gt;11,569&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Cotton seed&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Other seeds and dry fruits&lt;/td&gt;&lt;td&gt;415,780&lt;/td&gt;&lt;td&gt;2,588&lt;/td&gt;&lt;td&gt;15,926&lt;/td&gt;&lt;td&gt;434,294&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Roses&lt;/td&gt;&lt;td&gt;10,770&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;10,770&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Clovers&lt;/td&gt;&lt;td&gt;1,874&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1,874&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Other live plants and seeds&lt;/td&gt;&lt;td&gt;54,633&lt;/td&gt;&lt;td&gt;818&lt;/td&gt;&lt;td&gt;19,477&lt;/td&gt;&lt;td&gt;74,928&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Green tea&lt;/td&gt;&lt;td&gt;628&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;41&lt;/td&gt;&lt;td&gt;669&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Cacao grains&lt;/td&gt;&lt;td&gt;10,676&lt;/td&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;635&lt;/td&gt;&lt;td&gt;11,348&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Other drinkable herbs&lt;/td&gt;&lt;td&gt;1,421&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;40&lt;/td&gt;&lt;td&gt;1,461&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Spices&lt;/td&gt;&lt;td&gt;5,200&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;2,526&lt;/td&gt;&lt;td&gt;7,727&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Unprocessed tobbacco&lt;/td&gt;&lt;td&gt;27,532&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;910&lt;/td&gt;&lt;td&gt;28,442&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Sugar Cane&lt;/td&gt;&lt;td&gt;19,364,100&lt;/td&gt;&lt;td&gt;4,232&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;19,368,332&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Cotton&lt;/td&gt;&lt;td&gt;24&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;24,519&lt;/td&gt;&lt;td&gt;24,542&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Other vegetable materials&lt;/td&gt;&lt;td&gt;2,359&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;6,877&lt;/td&gt;&lt;td&gt;9,236&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Total&lt;/td&gt;&lt;td&gt;29,345,868&lt;/td&gt;&lt;td&gt;7,983&lt;/td&gt;&lt;td&gt;1,425,780&lt;/td&gt;&lt;td&gt;30,779,631&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;small&gt;Source: Iarna/Banguat (2010)&lt;/small&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;p&gt;In terms of use of the same products, we grouped economic activities in a way that would make it more easy to identify the various steps in the food production chain. For that reason, we have industries that use crops as seed inputs, others that use it as animal feed, the food processing industry, hotels and restaurants, and the remaining industries of Guatemala, along with households and exports.&lt;/p&gt;
+
+&lt;p&gt;The decision to group industries that would naturally use crops as feed for animals had the intention of addressing the concern of large portions of the earth&amp;rsquo;s surface being cleared for the production of animal food. Table 2 shows that the largest users of agricultural supply were manufactures, households, and the rest of the world (exports); not industries for feed. It would be reasonable to think that grain would be used by manufactures for the production of animal foods, but as we&amp;rsquo;ll see later, volumes of those products were not relevant in the data.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;[Table 2. Physical use account for crops. ABOUT HERE]&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;In the case of &amp;ldquo;soy&amp;rdquo; and &amp;ldquo;other live plants, flowers, and seeds,&amp;rdquo; the data revealed no use as feed, but an important share of their volume was used as seed (40% and 38% of all uses, respectively).&lt;/p&gt;
+&lt;p&gt;In the case of &amp;ldquo;soy&amp;rdquo; and &amp;ldquo;other live plants, flowers, and seeds,&amp;rdquo; the data revealed that there was no use as feed, but an important share of their volume was used as seed (40% and 38% of all uses, respectively).&lt;/p&gt;
 
 &lt;h2 id=&#34;how-important-is-the-food-processing-industry:45af15fedfdd005d7e7870f81b067efc&#34;&gt;How important is the food processing industry?&lt;/h2&gt;
 
-&lt;p&gt;Regarding the products with larger volumes in the economy, it is interesting to recognize the share used by manufacturing industries at the national level. For example, in the case of maize, only 20% of all used volume had a final destination in manufacturing. This is consistent with the 80% (adjusted to extract the negative stock variation) that was consumed by households. It contrasts with the 99% of the supply of unprocessed rice and wheat that were used almost exclusively by the food processing industries. This does not mean that households didn&amp;rsquo;t consume such products. It only means that they got them in their processed versions, such as precooked white rice and dehydrated breakfast gruel. For this reason, the totality of sugar cane was used by the food processing industry.&lt;/p&gt;
+&lt;p&gt;Regarding those products with larger volumes in the economy, it is interesting to recognize the share used by the food processing industries at the national level. For example, in the case of maize, only 20% of all used volume had a final destination in manufacturing. This is consistent with the 80% (adjusted to extract the negative stock variation) that was consumed by households. It contrasts with the 99% of the supply of unprocessed rice and wheat that were used almost exclusively by the food processing industries. This does not mean that households didn&amp;rsquo;t consume such products. It only means that they did so in their processed versions, such as precooked white rice and dehydrated breakfast gruel. As an example of this, the totality of sugar cane was used by the food processing industry.&lt;/p&gt;
 
 &lt;p&gt;Aside from these exceptions, households did consume large volumes of cultivated products directly, which is consistent with the traditional market culture still present in most of the country. For example, they used 95% of beans, 88% of potatoes, 97% of other roots and tubers, 99% of fresh culinary herbs, 91% of other vegetables and 67% of all fruits, among others.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;[Table 4. Supply of processed foods. ABOUT HERE]&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;We take note of the relative importance in terms of volume of fruit juices (52,897 tm), other bakery and pastry products (44,885 tm), preserves, fruit marmalades, purees and fruit pastes (31,592 tm), as well as prepared or canned legumes (35,039 tm). It is noteworthy that in this last category we can find canned refried beans which are increasingly popular in Guatemalan diets.&lt;/p&gt;
+&lt;p&gt;We take note of the relative importance in terms of volume of fruit juices (52,897 tm), other bakery and pastry products (44,885 tm), preserves, fruit marmalades, purees and fruit pastes (31,592 tm), as well as prepared or canned legumes (35,039 tm). It is noteworthy that in this last category we can find canned refried beans which are increasingly popular in the Guatemalan diet.&lt;/p&gt;
 
 &lt;p&gt;As illustrative as the supply of foods is in understanding food security topics, evaluating the use of those foods within the economy has more explanatory power. Table 5 shows that households consume about 23% of the volume of prepared legumes, while 68% becomes exports, and it also shows that they use about 73% of canned fruits. It is also relevant that only 36% of processed rice goes to households, while 62% becomes exports. Households also use about 20% of wheat flour and 60% of other types of flour.&lt;/p&gt;
 
@@ -309,11 +342,11 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 
 &lt;h2 id=&#34;what-do-we-know-about-water-and-energy-use-in-this-context:45af15fedfdd005d7e7870f81b067efc&#34;&gt;What do we know about water and energy use in this context?&lt;/h2&gt;
 
-&lt;p&gt;Ensuring food production requires that we ensure water availability during the various stages of crop growth. Table 6 shows the different requirements of land and water for crops. Among uses of water it is important to distinguish between irrigated and rainfed agriculture. In the first case, producers must make sure that there is enough available water of quality for crops to grow. In the second case, producers depend on the availability of rain water, the hydrological cycle, and climate variability.&lt;/p&gt;
+&lt;p&gt;Food production requires that we ensure water availability during the various growth stages of the plants. Table 6 shows the different requirements of land and water for crops. Among uses of water it is important to distinguish between irrigated and rainfed agriculture. In the first case, producers must make sure that there is enough available water of quality for crops to grow. In the second case, producers depend on the availability of rain water, the hydrological cycle, and climate variability.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;[Table 6. Crops land and water use. ABOUT HERE]&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Maize production, as we&amp;rsquo;ve seen in volumetric terms before, is highly important to Guatemalans. It represents also the largest water use among crops (4.8 million m&lt;sup&gt;3&lt;/sup&gt;), which is comparable to sugar cane production. Nonetheless, the water used for the production of this crop comes exclusively from rain (rainfed agriculture). This is also the case for the production of beans whose water use reaches 0.9 million m&lt;sup&gt;3&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Maize production, as we&amp;rsquo;ve seen in terms of volume before, is highly important to Guatemalans. It represents also the largest water use among crops (4.8 million m&lt;sup&gt;3&lt;/sup&gt;), which is comparable to sugar cane production. Nonetheless, the water used for the production of this crop comes exclusively from rain (rainfed agriculture). This is also the case for the production of beans, whose water use reaches 0.9 million m&lt;sup&gt;3&lt;/sup&gt;.&lt;/p&gt;
 
 &lt;p&gt;Similarly, sugar cane has also a total water use of 4.8 million m&lt;sup&gt;3&lt;/sup&gt;. This is, however, a more industrialized production which uses several methods of water use: 56% rainfed, 24% aspersion, 17% gravity, and 3% other methods.&lt;/p&gt;
 
@@ -354,7 +387,11 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 
 &lt;p&gt;Figure 3 shows the evolution of the availability of daily calories per capita from vegetal and animal sources. In the years 2005-2013 87% of Guatemalans&amp;rsquo; caloric intake came from vegetal sources, and 13% from animal sources, in average.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;[Figure 3. Total available calories. ABOUT HERE]&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://seeagt.github.io/float/aff/aff-calories.jpg&#34; class=&#34;img-responsive&#34; alt=&#34;Source: INE (2015)&#34;&gt;
+&lt;em&gt;Figure 3. Total available calories&lt;/em&gt;
+&lt;hr&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;what-do-we-know-about-the-economics-of-it-all:45af15fedfdd005d7e7870f81b067efc&#34;&gt;What do we know about the economics of it all?&lt;/h2&gt;
 
