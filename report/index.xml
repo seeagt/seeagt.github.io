@@ -263,7 +263,7 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 
 &lt;h2 id=&#34;what-do-we-know-about-crops-then:45af15fedfdd005d7e7870f81b067efc&#34;&gt;What do we know about crops then?&lt;/h2&gt;
 
-&lt;p&gt;For example, table 1 shows the output and import of various crops in metric tons for Guatemala in 2010. In terms of volume, sugar cane was by far the largest output of this group of products, followed by the production of bananas and maize. But if we were to take out sugar cane and bananas from this comparison because of their highly industrialized nature geared towards exports, we could quickly see that maize took up a third of the remaining products combined supply. Maize was followed closely by the group called &amp;ldquo;other vegetables&amp;rdquo; with a share of output of 16% and &amp;ldquo;other fruits and nuts&amp;rdquo; with 12% of this more limited group (without sugar cane and bananas).&lt;/p&gt;
+&lt;p&gt;For example, table 1 shows the output and import of various crops in metric tons for Guatemala in 2010. In terms of volume, sugar cane was by far the largest output of this group of products, followed by the production of bananas and maize. But if we were to take out sugar cane and bananas from this comparison because of their highly industrialized nature geared towards exports, we could quickly see that maize took up a third of the remaining products combined supply. Maize was followed closely by the group called &amp;ldquo;other vegetables&amp;rdquo; with a share of output of 16% and &amp;ldquo;other fruits&amp;rdquo; with 12% of this more limited group (without sugar cane and bananas).&lt;/p&gt;
 
 &lt;p&gt;It is also interesting to see that the production of beans, which are a staple food for Guatemalans, was not as large in terms of volume as that of maize. It represented 5% of total supply, which was comparable to wheat (6%), potatoes (6%), and other seeds and oily fruits (5%).&lt;/p&gt;
 
@@ -274,106 +274,39 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 &lt;p&gt;&lt;em&gt;Table 1. Physical supply account for crops in 2010. (metric tons)&lt;/em&gt;&lt;/p&gt;
 
 &lt;table class=&#34;table table-striped&#34;&gt;
-&lt;tr&gt;&lt;th&gt; &lt;/th&gt;&lt;th&gt;Agricultural industries&lt;/th&gt;&lt;th&gt;Manufactures and others&lt;/th&gt;&lt;th&gt;Imports&lt;/th&gt;&lt;th&gt;Total&lt;/th&gt;&lt;/tr&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Coffee&lt;/td&gt;&lt;td&gt;242,595&lt;/td&gt;&lt;td&gt;244&lt;/td&gt;&lt;td&gt;39&lt;/td&gt;&lt;td&gt;242,877&lt;/td&gt;&lt;/tr&gt;
+&lt;thead&gt;&lt;tr class=&#34;tableizer-firstrow&#34;&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;Agricultural industries&lt;/th&gt;&lt;th&gt;Manufactures, utilities, and services&lt;/th&gt;&lt;th&gt;Imports&lt;/th&gt;&lt;th&gt;Total&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;
+ &lt;tr&gt;&lt;td&gt;Coffee, not roasted, not decaffeinated&lt;/td&gt;&lt;td&gt;242,595&lt;/td&gt;&lt;td&gt;244&lt;/td&gt;&lt;td&gt;39&lt;/td&gt;&lt;td&gt;242,877&lt;/td&gt;&lt;/tr&gt;
  &lt;tr&gt;&lt;td&gt;Bananas&lt;/td&gt;&lt;td&gt;2,637,570&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;2,136&lt;/td&gt;&lt;td&gt;2,639,706&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Cardamum&lt;/td&gt;&lt;td&gt;22,556&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;22,592&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Maize&lt;/td&gt;&lt;td&gt;2,327,800&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;630,100&lt;/td&gt;&lt;td&gt;2,957,901&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Sorgo&lt;/td&gt;&lt;td&gt;47,407&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;89&lt;/td&gt;&lt;td&gt;47,496&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Rice&lt;/td&gt;&lt;td&gt;29,593&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;67,585&lt;/td&gt;&lt;td&gt;97,177&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Wheat&lt;/td&gt;&lt;td&gt;1,493&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;492,356&lt;/td&gt;&lt;td&gt;493,849&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Other cereals&lt;/td&gt;&lt;td&gt;21,459&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;2,876&lt;/td&gt;&lt;td&gt;24,334&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Maize (corn)&lt;/td&gt;&lt;td&gt;2,327,800&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;630,100&lt;/td&gt;&lt;td&gt;2,957,901&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Rice, not husked&lt;/td&gt;&lt;td&gt;29,593&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;67,585&lt;/td&gt;&lt;td&gt;97,177&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Wheat and meslin&lt;/td&gt;&lt;td&gt;1,493&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;492,356&lt;/td&gt;&lt;td&gt;493,849&lt;/td&gt;&lt;/tr&gt;
  &lt;tr&gt;&lt;td&gt;Beans&lt;/td&gt;&lt;td&gt;441,066&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;23,900&lt;/td&gt;&lt;td&gt;464,966&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Other legumes&lt;/td&gt;&lt;td&gt;24,119&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;226&lt;/td&gt;&lt;td&gt;24,345&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Potatoes&lt;/td&gt;&lt;td&gt;480,994&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;3,905&lt;/td&gt;&lt;td&gt;484,899&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Other roots and tubers&lt;/td&gt;&lt;td&gt;17,619&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;17,623&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Green peas&lt;/td&gt;&lt;td&gt;47,763&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;22&lt;/td&gt;&lt;td&gt;47,785&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Broccoli&lt;/td&gt;&lt;td&gt;56,808&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;49&lt;/td&gt;&lt;td&gt;56,857&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Cabbage&lt;/td&gt;&lt;td&gt;33,491&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;435&lt;/td&gt;&lt;td&gt;33,926&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Green beans&lt;/td&gt;&lt;td&gt;13,744&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1,748&lt;/td&gt;&lt;td&gt;15,492&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Culinary herbs, flowers and edible leaves&lt;/td&gt;&lt;td&gt;5,800&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;5,800&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Other vegetables&lt;/td&gt;&lt;td&gt;1,362,470&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;32,030&lt;/td&gt;&lt;td&gt;1,394,501&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Melon&lt;/td&gt;&lt;td&gt;480,434&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;378&lt;/td&gt;&lt;td&gt;480,812&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Mango&lt;/td&gt;&lt;td&gt;105,909&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;74&lt;/td&gt;&lt;td&gt;105,983&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Berries&lt;/td&gt;&lt;td&gt;19,412&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;19,412&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Other fruits and nuts&lt;/td&gt;&lt;td&gt;984,820&lt;/td&gt;&lt;td&gt;64&lt;/td&gt;&lt;td&gt;84,264&lt;/td&gt;&lt;td&gt;1,069,148&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Sesame seed&lt;/td&gt;&lt;td&gt;38,194&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;8,764&lt;/td&gt;&lt;td&gt;46,958&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Other vegetables, fresh or chilled n.e.c.&lt;/td&gt;&lt;td&gt;1,362,470&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;32,030&lt;/td&gt;&lt;td&gt;1,394,501&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Other fruits&lt;/td&gt;&lt;td&gt;984,820&lt;/td&gt;&lt;td&gt;64&lt;/td&gt;&lt;td&gt;84,264&lt;/td&gt;&lt;td&gt;1,069,148&lt;/td&gt;&lt;/tr&gt;
  &lt;tr&gt;&lt;td&gt;Soybeans&lt;/td&gt;&lt;td&gt;7,755&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;3,813&lt;/td&gt;&lt;td&gt;11,569&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Cotton seed&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Other seeds and dry fruits&lt;/td&gt;&lt;td&gt;415,780&lt;/td&gt;&lt;td&gt;2,588&lt;/td&gt;&lt;td&gt;15,926&lt;/td&gt;&lt;td&gt;434,294&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Roses&lt;/td&gt;&lt;td&gt;10,770&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;10,770&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Clovers&lt;/td&gt;&lt;td&gt;1,874&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1,874&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Other live plants and seeds&lt;/td&gt;&lt;td&gt;54,633&lt;/td&gt;&lt;td&gt;818&lt;/td&gt;&lt;td&gt;19,477&lt;/td&gt;&lt;td&gt;74,928&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Green tea&lt;/td&gt;&lt;td&gt;628&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;41&lt;/td&gt;&lt;td&gt;669&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Cacao grains&lt;/td&gt;&lt;td&gt;10,676&lt;/td&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;635&lt;/td&gt;&lt;td&gt;11,348&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Other drinkable herbs&lt;/td&gt;&lt;td&gt;1,421&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;40&lt;/td&gt;&lt;td&gt;1,461&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Spices&lt;/td&gt;&lt;td&gt;5,200&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;2,526&lt;/td&gt;&lt;td&gt;7,727&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Unprocessed tobbacco&lt;/td&gt;&lt;td&gt;27,532&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;910&lt;/td&gt;&lt;td&gt;28,442&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Sugar Cane&lt;/td&gt;&lt;td&gt;19,364,100&lt;/td&gt;&lt;td&gt;4,232&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;19,368,332&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Cotton&lt;/td&gt;&lt;td&gt;24&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;24,519&lt;/td&gt;&lt;td&gt;24,542&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Other vegetable materials&lt;/td&gt;&lt;td&gt;2,359&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;6,877&lt;/td&gt;&lt;td&gt;9,236&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Total&lt;/td&gt;&lt;td&gt;29,345,868&lt;/td&gt;&lt;td&gt;7,983&lt;/td&gt;&lt;td&gt;1,425,780&lt;/td&gt;&lt;td&gt;30,779,631&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
+ &lt;tr&gt;&lt;td&gt;Sugar cane&lt;/td&gt;&lt;td&gt;19,364,100&lt;/td&gt;&lt;td&gt;4,232&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;19,368,332&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;All other crops&lt;/td&gt;&lt;td&gt;1,946,607&lt;/td&gt;&lt;td&gt;3,443&lt;/td&gt;&lt;td&gt;89,556&lt;/td&gt;&lt;td&gt;2,039,605&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Total&lt;/td&gt;&lt;td&gt;27,399,262&lt;/td&gt;&lt;td&gt;4,540&lt;/td&gt;&lt;td&gt;1,336,224&lt;/td&gt;&lt;td&gt;28,740,025&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
 
 &lt;p&gt;&lt;small&gt;Source: Iarna/Banguat (2010)&lt;/small&gt;
 &lt;hr&gt;&lt;/p&gt;
 
 &lt;p&gt;In terms of use of the same products, we grouped economic activities in a way that would make it more easy to identify the various steps in the food production chain. For that reason, we have industries that use crops as seed inputs, others that use it as animal feed, the food processing industry, hotels and restaurants, and the remaining industries of Guatemala, along with households and exports.&lt;/p&gt;
 
-&lt;p&gt;The decision to group industries that would naturally use crops as feed for animals had the intention of addressing the concern of large portions of the earth&amp;rsquo;s surface being cleared for the production of animal food. Table 2 shows that the largest users of agricultural supply were manufactures, households, and the rest of the world (exports); not industries for feed. It would be reasonable to think that grain would be used by manufactures for the production of animal foods, but as we&amp;rsquo;ll see later, volumes of those products were not relevant in the data.&lt;/p&gt;
+&lt;p&gt;The decision to group industries that would naturally use crops as feed for animals had the intention of addressing the concern of large portions of the earth&amp;rsquo;s surface being cleared for the production of animal food. Figure 1 shows that the largest users of agricultural supply were manufactures, households, and the rest of the world (exports); not industries for feed. The figure is color coded in a way that makes evident the category with the biggest use share for each product (darker blue). It would be reasonable to think that grain would be used by manufactures for the production of animal foods, but as we&amp;rsquo;ll see later, volumes of those products were not relevant in the data.&lt;/p&gt;
 
 &lt;hr&gt;
 
-&lt;p&gt;&lt;em&gt;Table 2. Physical use account for crops in 2010. (metric tons)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://seeagt.github.io/float/aff/aff-use.jpg&#34; class=&#34;img-responsive&#34; alt=&#34;Source: INE (2015)&#34;&gt;&lt;/p&gt;
 
-&lt;table class=&#34;table table-striped&#34;&gt;
-&lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;Industrias agrícolas para semilla&lt;/th&gt;&lt;th&gt;Industrias agrícolas para alimento&lt;/th&gt;&lt;th&gt;Otras industrias agrícolas&lt;/th&gt;&lt;th&gt;Industrias de prorcesamiento de alimentos&lt;/th&gt;&lt;th&gt;Otras industrias&lt;/th&gt;&lt;th&gt;Hoteles y restaurantes&lt;/th&gt;&lt;th&gt;Hogares&lt;/th&gt;&lt;th&gt;Variación de existencias&lt;/th&gt;&lt;th&gt;Exportaciones&lt;/th&gt;&lt;th&gt;Total&lt;/th&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Café&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;5,611&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1,125&lt;/td&gt;&lt;td&gt;740&lt;/td&gt;&lt;td&gt;235,402&lt;/td&gt;&lt;td&gt;242,878&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Banano&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;4,412&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;7,190&lt;/td&gt;&lt;td&gt;1,259,160&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1,368,940&lt;/td&gt;&lt;td&gt;2,639,702&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Cardamomo&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;425&lt;/td&gt;&lt;td&gt;22,167&lt;/td&gt;&lt;td&gt;22,592&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Maíz&lt;/td&gt;&lt;td&gt;29,393&lt;/td&gt;&lt;td&gt;15,171&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;596,650&lt;/td&gt;&lt;td&gt;29&lt;/td&gt;&lt;td&gt;339&lt;/td&gt;&lt;td&gt;2,434,820&lt;/td&gt;&lt;td&gt;-125,767&lt;/td&gt;&lt;td&gt;7,265&lt;/td&gt;&lt;td&gt;2,957,900&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Sorgo&lt;/td&gt;&lt;td&gt;837&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;6,084&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;39,736&lt;/td&gt;&lt;td&gt;624&lt;/td&gt;&lt;td&gt;215&lt;/td&gt;&lt;td&gt;47,496&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Arroz con cáscara&lt;/td&gt;&lt;td&gt;781&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;96,082&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;314&lt;/td&gt;&lt;td&gt;97,177&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Trigo&lt;/td&gt;&lt;td&gt;777&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;490,698&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;116&lt;/td&gt;&lt;td&gt;535&lt;/td&gt;&lt;td&gt;1,718&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;493,848&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Otros cereales ncp&lt;/td&gt;&lt;td&gt;104&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;11,507&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;4,811&lt;/td&gt;&lt;td&gt;7,429&lt;/td&gt;&lt;td&gt;297&lt;/td&gt;&lt;td&gt;186&lt;/td&gt;&lt;td&gt;24,334&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Frijol&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;13,737&lt;/td&gt;&lt;td&gt;1,233&lt;/td&gt;&lt;td&gt;2,824&lt;/td&gt;&lt;td&gt;443,704&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;3,451&lt;/td&gt;&lt;td&gt;464,966&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Otras legumbres ncp&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;2,468&lt;/td&gt;&lt;td&gt;156&lt;/td&gt;&lt;td&gt;1,430&lt;/td&gt;&lt;td&gt;20,134&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;157&lt;/td&gt;&lt;td&gt;24,345&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Papa&lt;/td&gt;&lt;td&gt;6,357&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;801&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;16,074&lt;/td&gt;&lt;td&gt;427,779&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;33,889&lt;/td&gt;&lt;td&gt;484,899&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Otras raíces y tubérculos ncp&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;101&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;17,150&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;366&lt;/td&gt;&lt;td&gt;17,623&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Arveja china&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;7,043&lt;/td&gt;&lt;td&gt;3,585&lt;/td&gt;&lt;td&gt;4,537&lt;/td&gt;&lt;td&gt;32,620&lt;/td&gt;&lt;td&gt;47,785&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Brócoli&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;9,540&lt;/td&gt;&lt;td&gt;15,250&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;32,068&lt;/td&gt;&lt;td&gt;56,857&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Repollo&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1,197&lt;/td&gt;&lt;td&gt;24,323&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;8,407&lt;/td&gt;&lt;td&gt;33,926&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Ejote francés&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1,506&lt;/td&gt;&lt;td&gt;5,938&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;8,048&lt;/td&gt;&lt;td&gt;15,492&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Hierbas frescas culinarias, flores y hojas comestibles&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;5,793&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;5,800&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Otras verduras ncp&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;3,325&lt;/td&gt;&lt;td&gt;491&lt;/td&gt;&lt;td&gt;15,570&lt;/td&gt;&lt;td&gt;1,270,660&lt;/td&gt;&lt;td&gt;-338&lt;/td&gt;&lt;td&gt;104,792&lt;/td&gt;&lt;td&gt;1,394,501&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Melón&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1,608&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;173,539&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;305,664&lt;/td&gt;&lt;td&gt;480,811&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Mango&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;20,038&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;70,828&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;15,116&lt;/td&gt;&lt;td&gt;105,983&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Berries&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;447&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;34&lt;/td&gt;&lt;td&gt;14,431&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;4,501&lt;/td&gt;&lt;td&gt;19,412&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Otras frutas ncp y nueces&lt;/td&gt;&lt;td&gt;295&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;94,211&lt;/td&gt;&lt;td&gt;4,452&lt;/td&gt;&lt;td&gt;39,706&lt;/td&gt;&lt;td&gt;716,221&lt;/td&gt;&lt;td&gt;-98&lt;/td&gt;&lt;td&gt;214,361&lt;/td&gt;&lt;td&gt;1,069,148&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Ajonjolí&lt;/td&gt;&lt;td&gt;277&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;7,188&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;16,138&lt;/td&gt;&lt;td&gt;211&lt;/td&gt;&lt;td&gt;23,144&lt;/td&gt;&lt;td&gt;46,958&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Soya&lt;/td&gt;&lt;td&gt;4,624&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;5,236&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1,370&lt;/td&gt;&lt;td&gt;135&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;203&lt;/td&gt;&lt;td&gt;11,569&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Semilla de algodón&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Otras semillas y frutos oleaginosos ncp&lt;/td&gt;&lt;td&gt;549&lt;/td&gt;&lt;td&gt;32,401&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;387,840&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;595&lt;/td&gt;&lt;td&gt;12,811&lt;/td&gt;&lt;td&gt;-423&lt;/td&gt;&lt;td&gt;520&lt;/td&gt;&lt;td&gt;434,294&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Rosas&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;102,092&lt;/td&gt;&lt;td&gt;-92,593&lt;/td&gt;&lt;td&gt;1,271&lt;/td&gt;&lt;td&gt;10,770&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Claveles&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1,795&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;79&lt;/td&gt;&lt;td&gt;1,874&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Otras plantas vivas, flores y semillas ncp&lt;/td&gt;&lt;td&gt;28,103&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;87&lt;/td&gt;&lt;td&gt;335&lt;/td&gt;&lt;td&gt;96&lt;/td&gt;&lt;td&gt;4,252&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;42,043&lt;/td&gt;&lt;td&gt;74,928&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Té verde&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;129&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;392&lt;/td&gt;&lt;td&gt;148&lt;/td&gt;&lt;td&gt;669&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Cacao en grano&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;10,703&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;396&lt;/td&gt;&lt;td&gt;218&lt;/td&gt;&lt;td&gt;32&lt;/td&gt;&lt;td&gt;11,348&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Otras plantas bebestibles ncp&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;75&lt;/td&gt;&lt;td&gt;180&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1,174&lt;/td&gt;&lt;td&gt;-5&lt;/td&gt;&lt;td&gt;38&lt;/td&gt;&lt;td&gt;1,461&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Especias&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1,276&lt;/td&gt;&lt;td&gt;572&lt;/td&gt;&lt;td&gt;131&lt;/td&gt;&lt;td&gt;4,184&lt;/td&gt;&lt;td&gt;159&lt;/td&gt;&lt;td&gt;1,404&lt;/td&gt;&lt;td&gt;7,727&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Tabaco sin elaborar&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;16,453&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;11,989&lt;/td&gt;&lt;td&gt;28,442&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Caña de azúcar&lt;/td&gt;&lt;td&gt;961,639&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;19,047,100&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;23,791&lt;/td&gt;&lt;td&gt;56,792&lt;/td&gt;&lt;td&gt;-721,013&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;19,368,309&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Algodón en oro&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;24,531&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;24,542&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Otras materias vegetales sin elaborar ncp&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1,463&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;5,223&lt;/td&gt;&lt;td&gt;2,549&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;9,236&lt;/td&gt;&lt;/tr&gt;
- &lt;tr&gt;&lt;td&gt;Total&lt;/td&gt;&lt;td&gt;1,033,743&lt;/td&gt;&lt;td&gt;47,572&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;20,807,414&lt;/td&gt;&lt;td&gt;49,896&lt;/td&gt;&lt;td&gt;133,370&lt;/td&gt;&lt;td&gt;7,157,133&lt;/td&gt;&lt;td&gt;-928,325&lt;/td&gt;&lt;td&gt;2,478,801&lt;/td&gt;&lt;td&gt;30,779,604&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
+&lt;p&gt;&lt;small&gt;(1) Agricultural industries that use crops as seed; (2 Agricultural industries that use crops as feed; (3) Other agricultural industries; (4) Food processing industries; (5) Other industries; (6) Hotels and restaurants; (7) Households; (8) Stock variation; (9) Exports&lt;/small&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;small&gt;Source: Iarna/Banguat (2010)&lt;/small&gt;
-&lt;hr&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Figure 1. Physical use account for crops in 2010 (percentages)&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;[Table 2. Physical use account for crops. ABOUT HERE]&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
 
-&lt;p&gt;In the case of &amp;ldquo;soy&amp;rdquo; and &amp;ldquo;other live plants, flowers, and seeds,&amp;rdquo; the data revealed that there was no use as feed, but an important share of their volume was used as seed (40% and 38% of all uses, respectively).&lt;/p&gt;
+&lt;p&gt;In the case of &amp;ldquo;soybeans&amp;rdquo; the data revealed that there was no use as feed, but an important share of their volume was used as seed (40%).&lt;/p&gt;
 
 &lt;h2 id=&#34;how-important-is-the-food-processing-industry:45af15fedfdd005d7e7870f81b067efc&#34;&gt;How important is the food processing industry?&lt;/h2&gt;
 
