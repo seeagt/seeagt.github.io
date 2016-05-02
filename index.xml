@@ -701,7 +701,9 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Table 2. Largest water uses among manufacturing industries. (million m&lt;sup&gt;3&lt;/sup&gt; and percentages)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;table class=&#34;table table-striped&#34;&gt;
-&lt;thead&gt;&lt;tr class=&#34;tableizer-firstrow&#34;&gt; &lt;th&gt;Industry&lt;/th&gt;&lt;th&gt;Volume&lt;/th&gt;&lt;th&gt;Percentage&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;
+&lt;thead&gt;&lt;tr class=&#34;tableizer-firstrow&#34;&gt;
+&lt;small&gt;
+ &lt;th&gt;Industry&lt;/th&gt;&lt;th&gt;Volume&lt;/th&gt;&lt;th&gt;Percentage&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;
  &lt;tr&gt;&lt;td&gt;Coffee processing&lt;/td&gt;&lt;td&gt;7,591,184,950.80&lt;/td&gt;&lt;td&gt;86.86&lt;/td&gt;&lt;/tr&gt;
  &lt;tr&gt;&lt;td&gt;Food processing&lt;/td&gt;&lt;td&gt;687,756,805.01&lt;/td&gt;&lt;td&gt;7.87&lt;/td&gt;&lt;/tr&gt;
  &lt;tr&gt;&lt;td&gt;Sugar production&lt;/td&gt;&lt;td&gt;218,758,014.48&lt;/td&gt;&lt;td&gt;2.5&lt;/td&gt;&lt;/tr&gt;
@@ -712,6 +714,7 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
  &lt;tr&gt;&lt;td&gt;Subtotal &lt;/td&gt;&lt;td&gt;8,624,380,482.43&lt;/td&gt;&lt;td&gt;98.56&lt;/td&gt;&lt;/tr&gt;
  &lt;tr&gt;&lt;td&gt;Other industries&lt;/td&gt;&lt;td&gt;115,569,084.74&lt;/td&gt;&lt;td&gt;1.44&lt;/td&gt;&lt;/tr&gt;
  &lt;tr&gt;&lt;td&gt;Total  &lt;/td&gt;&lt;td&gt;8,739,949,567.17&lt;/td&gt;&lt;td&gt;100&lt;/td&gt;&lt;/tr&gt;
+&lt;/small&gt;
 &lt;/tbody&gt;&lt;/table&gt;
 
 &lt;p&gt;&lt;small&gt;Source: Iarna/Banguat (2010)&lt;/small&gt;&lt;/p&gt;
@@ -724,7 +727,25 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 
 &lt;p&gt;On the other hand, water used to satisfy direct human needs represented around 3% of total extraction in the years 2001-2006. In 2003, total water used by households was estimated at 392.7 million m&lt;sup&gt;3&lt;/sup&gt;. We made this calculation taking into account that water use varies from urban to rural areas, from administrative region to region in the country, and also given different kinds of access to water of households. Table 10 shows these results by department. A total of 59% of all household consumption of water happens in urban areas, and about a third of national household water is used in the department of Guatemala, where the capital city is located; the largest in the country.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;[Table 10. AD Household water use by department; urban and rural areas. ABOUT HERE]&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Table 3. Household water use for selected departments; urban and rural areas. (million m&lt;sup&gt;3&lt;/sup&gt;)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table class=&#34;table table-striped&#34;&gt;
+&lt;thead&gt;&lt;tr class=&#34;tableizer-firstrow&#34;&gt; &lt;th&gt;Department&lt;/th&gt;&lt;th&gt;Urban&lt;/th&gt;&lt;th&gt;Rural&lt;/th&gt;&lt;th&gt;Total&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;
+ &lt;tr&gt;&lt;td&gt;Guatemala&lt;/td&gt;&lt;td&gt;120,877&lt;/td&gt;&lt;td&gt;13,035&lt;/td&gt;&lt;td&gt;133,912&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Alta Verapaz&lt;/td&gt;&lt;td&gt;6,238&lt;/td&gt;&lt;td&gt;17,828&lt;/td&gt;&lt;td&gt;24,067&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;San Marcos&lt;/td&gt;&lt;td&gt;6,903&lt;/td&gt;&lt;td&gt;16,061&lt;/td&gt;&lt;td&gt;22,964&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Quetzaltenango&lt;/td&gt;&lt;td&gt;13,727&lt;/td&gt;&lt;td&gt;7,178&lt;/td&gt;&lt;td&gt;20,905&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Escuintla&lt;/td&gt;&lt;td&gt;9,542&lt;/td&gt;&lt;td&gt;8,784&lt;/td&gt;&lt;td&gt;18,326&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Huehuetenango&lt;/td&gt;&lt;td&gt;6,351&lt;/td&gt;&lt;td&gt;10,660&lt;/td&gt;&lt;td&gt;17,012&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Rest of departments&lt;/td&gt;&lt;td&gt;69,036&lt;/td&gt;&lt;td&gt;86,472&lt;/td&gt;&lt;td&gt;155,509&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Total&lt;/td&gt;&lt;td&gt;232,674&lt;/td&gt;&lt;td&gt;160,018&lt;/td&gt;&lt;td&gt;392,695&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;p&gt;&lt;small&gt;Source: Iarna/Banguat (2010)&lt;/small&gt;&lt;/p&gt;
+
+&lt;hr&gt;
 
 &lt;h2 id=&#34;how-is-this-information-different-from-what-we-already-know-from-national-accounts-and-other-sources:af8f8b90521da410b93191bf17464492&#34;&gt;How is this information different from what we already know from National Accounts and other sources?&lt;/h2&gt;
 
@@ -732,7 +753,11 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 
 &lt;p&gt;From our exercises already presented above we were able to compare and contrast the different volumes estimated by the System of National Accounts and water accounting. Figure 8 shows that upward of 98% of water is not registered by our usual economic performance measures. In 2006, this represented over 31 million m&lt;sup&gt;3&lt;/sup&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;[Figure 8. AD Registered and Unregistered water in the System of National Accounts. ABOUT HERE]&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://seeagt.github.io/float/water/water-registered_unergistered.jpg&#34; class=&#34;img-responsive&#34; alt=&#34;Source: INE (2015)&#34;&gt;
+&lt;em&gt;Figure 5. Water not recorded in the System of National Accounts&lt;/em&gt;
+&lt;hr&gt;&lt;/p&gt;
 
 &lt;p&gt;Furthermore, table 11 shows these differences for selected individual industries. For example, in agriculture over 80% of unregistered water corresponds to rainfed agriculture, but the grand majority of water for irrigation is also excluded from typical gross domestic product calculations. And even for households, which are the main clients of private and municipal water distribution systems, registered water only accounts for about 20% of their total use.&lt;/p&gt;
 
