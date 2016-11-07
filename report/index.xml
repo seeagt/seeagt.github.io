@@ -6,8 +6,17 @@
     <description>Recent content in Reports on SEEA Guatemala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 May 2016 17:59:21 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jun 2016 12:12:13 -0400</lastBuildDate>
     <atom:link href="http://seeagt.github.io/report/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Environmental Expenditure</title>
+      <link>http://seeagt.github.io/report/expenditure/</link>
+      <pubDate>Tue, 21 Jun 2016 12:12:13 -0400</pubDate>
+      
+      <guid>http://seeagt.github.io/report/expenditure/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fisheries and aquaculture</title>
