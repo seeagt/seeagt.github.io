@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Topics on SEEA Guatemala</title>
-    <link>http://seeagt.github.io/topic/</link>
-    <description>Recent content in Topics on SEEA Guatemala</description>
+    <title>Topic-rsses on SEEA Guatemala</title>
+    <link>http://seeagt.github.io/topic/index.xml</link>
+    <description>Recent content in Topic-rsses on SEEA Guatemala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Jan 2016 23:13:55 -0600</lastBuildDate>

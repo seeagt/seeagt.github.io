@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reports on SEEA Guatemala</title>
-    <link>http://seeagt.github.io/report/</link>
-    <description>Recent content in Reports on SEEA Guatemala</description>
+    <title>Report-rsses on SEEA Guatemala</title>
+    <link>http://seeagt.github.io/report/index.xml</link>
+    <description>Recent content in Report-rsses on SEEA Guatemala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Jun 2016 12:12:13 -0400</lastBuildDate>
@@ -26,7 +26,7 @@
       <guid>http://seeagt.github.io/report/fisheries/</guid>
       <description>
 
-&lt;h2 id=&#34;what-is-environmental-and-economic-accounting-for-fisheries:dc863c76d36a5306e5cd3728c8dd7718&#34;&gt;What is environmental and economic accounting for fisheries?&lt;/h2&gt;
+&lt;h2 id=&#34;what-is-environmental-and-economic-accounting-for-fisheries&#34;&gt;What is environmental and economic accounting for fisheries?&lt;/h2&gt;
 
 &lt;p&gt;The fisheries account of Guatemala is a framework that provides information on the link between fish stocks, both cultivated and not cultivated, and the economy. This work looked at data from the year 2001 through 2005. It links information on economic transactions and integrates it with the physical information on fish availabilities. In particular fisheries accounting:&lt;/p&gt;
 
@@ -37,7 +37,7 @@
 &lt;li&gt;Provides a set of indicators that track the performance of fish activities.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;what-are-some-general-trends-regarding-fish-stocks:dc863c76d36a5306e5cd3728c8dd7718&#34;&gt;What are some general trends regarding fish stocks?&lt;/h2&gt;
+&lt;h2 id=&#34;what-are-some-general-trends-regarding-fish-stocks&#34;&gt;What are some general trends regarding fish stocks?&lt;/h2&gt;
 
 &lt;p&gt;Fish production in Guatemala is of an extractive nature, according to the data. In the accounting years, ocean and continental captures represented between 73% and 87% from the total supply of fish, leaving the remaining 13% to 27% to aquaculture, i.e. fish farming. The most relevant fluctuation happened in captures in the Pacific, which went from 26,459 metric tons in 2001 to 4,854 in 2005. There was an over all downward trend in output during the analysis years, with a significant drop in production to almost half from 2003 to 2004, with a slight recuperation in 2005 that is expected to continue.&lt;/p&gt;
 
@@ -54,7 +54,7 @@
 &lt;em&gt;Figure 2. Inter annual change in output from fisheries and aquaculture, 2002-2005 (rate of change)&lt;/em&gt;
 &lt;hr&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;what-happens-with-fishing:dc863c76d36a5306e5cd3728c8dd7718&#34;&gt;What happens with fishing?&lt;/h2&gt;
+&lt;h2 id=&#34;what-happens-with-fishing&#34;&gt;What happens with fishing?&lt;/h2&gt;
 
 &lt;p&gt;Geographically, fishing takes place in the Pacific coast, the Atlantic coast, and continental waters. We term the first two &amp;ldquo;marine fishing.&amp;rdquo; In terms of output, marine activities have been the most intense, mainly in the Pacific. As we saw earlier, there was a relevant drop, related to a drop in tuna extraction, which went from 23,528 metric tons in 2001 to 3,353 in 2005; an 85% drop. In turn, Atlantic coast fishing and continental fishing remained stable with annual extractions between 345 and 485 metric tons in the first case, and of 7,300 metric tons in the second case.&lt;/p&gt;
 
@@ -76,7 +76,7 @@
 &lt;em&gt;Figure 4. Captures in the Pacific coast by species, 2001-2005 (percentage from total production)&lt;/em&gt;
 &lt;hr&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;what-about-aquaculture:dc863c76d36a5306e5cd3728c8dd7718&#34;&gt;What about aquaculture?&lt;/h2&gt;
+&lt;h2 id=&#34;what-about-aquaculture&#34;&gt;What about aquaculture?&lt;/h2&gt;
 
 &lt;p&gt;In some Central American countries, like Belice and Honduras, aquaculture or fish farming represents upwards of 80% of the entire fish output. This is not the case in Guatemala, where fish farming contributed between 13% and 27% of annual output in the years 2001-2005. From this industry, fresh water shrimp (between 49% and 87% of their output) and tilapias (between 13% and 47% of total output) were most relevant.&lt;/p&gt;
 
@@ -108,7 +108,7 @@
 &lt;em&gt;Figure 7. Distribution of surface area destined to shrimp and fish farming in Guatemala, 2003 (percentage)&lt;/em&gt;
 &lt;hr&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;what-are-the-economic-benefits-of-fish-farming:dc863c76d36a5306e5cd3728c8dd7718&#34;&gt;What are the economic benefits of fish farming?&lt;/h2&gt;
+&lt;h2 id=&#34;what-are-the-economic-benefits-of-fish-farming&#34;&gt;What are the economic benefits of fish farming?&lt;/h2&gt;
 
 &lt;p&gt;In monetary terms, fisheries and aquaculture contribution to the economy had a downward trend. The drop in physical volumes observed in the analysis years was dampened in monetary terms due to an increase in the price of products from these industries. In 2001, output from fisheries and aquaculture was valued at GTQ&amp;nbsp;894.4&amp;nbsp;million, while in 2005 this reached GTQ&amp;nbsp;740&amp;nbsp;million, equivalent to an 18% reduction. In those same years there was a drop in output of 66%. In other words, a metric ton of output was valued at GTQ&amp;nbsp;22,907 in 2001, and at GTQ&amp;nbsp;43,174 in 2005.&lt;/p&gt;
 
@@ -140,7 +140,7 @@
 &lt;em&gt;Figure 10. Use of products from fisheries and aquaculture, 2005 (percentages)&lt;/em&gt;
 &lt;hr&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;what-impacts-do-these-industries-cause:dc863c76d36a5306e5cd3728c8dd7718&#34;&gt;What impacts do these industries cause?&lt;/h2&gt;
+&lt;h2 id=&#34;what-impacts-do-these-industries-cause&#34;&gt;What impacts do these industries cause?&lt;/h2&gt;
 
 &lt;p&gt;Those animals that are caught alongside the target species are usually discarded back into the oceans. This is added to the fraction of the target species that is also discarded for economic or other reasons. The volume of discarded material depends in the different fishing gears. In the case of Guatemala, shrimp and tuna captures were responsible for between 3,387 and 8,924 metric tons of discards in the years 2001-2005. Of the total discarded volume, these values represented between 79% and 95% in the analysis years.&lt;/p&gt;
 
@@ -152,7 +152,7 @@
 &lt;em&gt;Figure 11. Discards of marine fishing, 2001-2005 (metric tons)&lt;/em&gt;
 &lt;hr&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;summary:dc863c76d36a5306e5cd3728c8dd7718&#34;&gt;Summary&lt;/h2&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 
 &lt;p&gt;In this essay we presented the fisheries and aquaculture account of Guatemala as a framework that provides information on the link between fish stocks, both cultivated and not cultivated, and the economy. It is interesting to note that:&lt;/p&gt;
 
@@ -181,7 +181,7 @@
       <guid>http://seeagt.github.io/report/subsoil/</guid>
       <description>
 
-&lt;h2 id=&#34;what-is-subsoil-resources-accounting:92c894dfe13dc21cd34992e774929ed6&#34;&gt;What is Subsoil Resources Accounting?&lt;/h2&gt;
+&lt;h2 id=&#34;what-is-subsoil-resources-accounting&#34;&gt;What is Subsoil Resources Accounting?&lt;/h2&gt;
 
 &lt;p&gt;The subsoil resources account of Guatemala is a framework that provides information on the availability of stocks of these resources and how they are used by the economy. It links information on economic transactions and integrates it with the physical information on subsoil resource flows. In particular subsoil resources accounting:&lt;/p&gt;
 
@@ -192,7 +192,7 @@
 &lt;li&gt;Provides a set of indicators in order to evaluate the environmental and economic performance of all these relationships.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&#34;what-are-the-general-trends-regarding-the-extraction-of-subsoil-resources:92c894dfe13dc21cd34992e774929ed6&#34;&gt;What are the general trends regarding the extraction of subsoil resources?&lt;/h2&gt;
+&lt;h2 id=&#34;what-are-the-general-trends-regarding-the-extraction-of-subsoil-resources&#34;&gt;What are the general trends regarding the extraction of subsoil resources?&lt;/h2&gt;
 
 &lt;p&gt;Between 2001 and 2006, the Guatemalan economy extracted 284 million metric tons of subsoil assets from the ground, of which 54% (152 million metric tons) were hydrocarbons. About 45% of the total was non-metallic minerals, which are used mainly by the construction industry and some manufacturing processes. The remaining 1% corresponded roughly to metallic minerals.&lt;/p&gt;
 
@@ -236,7 +236,7 @@
 &lt;em&gt;Figure 4. Output vs import of metallic minerals, 2001-2006 (thousands of metric tons)&lt;/em&gt;
 &lt;hr&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;how-are-subsoil-resources-used:92c894dfe13dc21cd34992e774929ed6&#34;&gt;How are subsoil resources used?&lt;/h2&gt;
+&lt;h2 id=&#34;how-are-subsoil-resources-used&#34;&gt;How are subsoil resources used?&lt;/h2&gt;
 
 &lt;p&gt;Subsoil resources are mostly used as inputs in industrial processes, both from local companies, as well as from abroad. Households consumed between 217 and 354 thousands of metric tons annually in our analysis years. That was equivalent to less than 1% of total supply in any year, which consists of up to 99% of resources for construction processes, such as limestone. In contrast, their use as exports and as inputs in other industries, which we term &amp;ldquo;intermediate consumption&amp;rdquo;, reached between 73% and 84% of total use in the analysis period.&lt;/p&gt;
 
@@ -248,7 +248,7 @@
 &lt;em&gt;Figure 5. Subsoil resource use between 2001 and 2006 (thousands of metric tons)&lt;/em&gt;
 &lt;hr&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;and-which-industries-use-the-most-subsoil-resources:92c894dfe13dc21cd34992e774929ed6&#34;&gt;And which industries use the most subsoil resources?&lt;/h2&gt;
+&lt;h2 id=&#34;and-which-industries-use-the-most-subsoil-resources&#34;&gt;And which industries use the most subsoil resources?&lt;/h2&gt;
 
 &lt;p&gt;When we analyze the above mentioned intermediate consumption, or the use of products as inputs in production processes of other industries, it is possible to dig deeper and disaggregate the industries that are the largest users of these resources. In the case of these products, there are six industries out of the 123 identified in the Guatemalan economy that represent 93% of total demand. The remaining industries used about 9 million metric tons of subsoil resources, or about 8% of total intermediate consumption. We group the most important six in three groups:&lt;/p&gt;
 
@@ -258,7 +258,7 @@
 &lt;li&gt;The production of electricity used about 4% of intermediate consumption.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&#34;how-valuable-are-subsoil-resources:92c894dfe13dc21cd34992e774929ed6&#34;&gt;How valuable are subsoil resources?&lt;/h2&gt;
+&lt;h2 id=&#34;how-valuable-are-subsoil-resources&#34;&gt;How valuable are subsoil resources?&lt;/h2&gt;
 
 &lt;p&gt;We analyze the value of subsoil resources from the perspective of the valuation of their stocks. When comparing opening stocks, we see a 134 million metric tons reduction from 2001 to 2006, or about 4% of the total. The biggest reduction occurred in hydrocarbons. But the value of that stock might change because of market circumstances and it might fluctuate even if physical stocks remain the same. We see one such revaluation of Guatemala&amp;rsquo;s stocks in the accounting period.&lt;/p&gt;
 
@@ -273,7 +273,7 @@
 &lt;em&gt;Figure 6. Opening stock performance a) physical and b) monetary (million metric tons and million GTQ)&lt;/em&gt;
 &lt;hr&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;what-are-the-economic-benefits-of-extracting-subsoil-resources:92c894dfe13dc21cd34992e774929ed6&#34;&gt;What are the economic benefits of extracting subsoil resources?&lt;/h2&gt;
+&lt;h2 id=&#34;what-are-the-economic-benefits-of-extracting-subsoil-resources&#34;&gt;What are the economic benefits of extracting subsoil resources?&lt;/h2&gt;
 
 &lt;p&gt;In Guatemala, from 2001 to 2006 there was a flow of subsoil resources ranging between GTQ&amp;nbsp;3,392 million and GTQ&amp;nbsp;5,014&amp;nbsp;million, at each year&amp;rsquo;s prices. During the analysis years, industries related these resources increased their contribution to the Guatemalan economy by 90%, going from GTQ&amp;nbsp;2,852&amp;nbsp;million in 2001 to about GTQ&amp;nbsp;5,427&amp;nbsp;million in 2006. Full time equivalent jobs went from 64,236 to 87,025 annually in the same years. Over 40,000 of these jobs were generated in the non-metallic minerals extraction industry. In the case of exports, there is a clear jump from 2005 to 2006 due to the beginning of operations in gold mining from GTQ&amp;nbsp;1,835&amp;nbsp;million to GTQ2,768&amp;nbsp;million. But from all subsoil resources, oil production represented 66% of the value of exports in 2006, while gold and silver represented 27% and 5%, respectively.&lt;/p&gt;
 
@@ -287,7 +287,7 @@
 &lt;em&gt;Figure 7. Industries related to subsoil resources and their contribution to wealth (percentage of GDP)&lt;/em&gt;
 &lt;hr&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;final-thoughts:92c894dfe13dc21cd34992e774929ed6&#34;&gt;Final thoughts&lt;/h2&gt;
+&lt;h2 id=&#34;final-thoughts&#34;&gt;Final thoughts&lt;/h2&gt;
 
 &lt;p&gt;In this essay we introduced environmental and economic accounting of subsoil resources as a framework that provides information on the availability of stocks of these resources and how they are used by the economy. Some interesting findings of this exercise reveal that:&lt;/p&gt;
 
@@ -309,7 +309,7 @@
       <guid>http://seeagt.github.io/report/waste/</guid>
       <description>
 
-&lt;h2 id=&#34;what-is-an-environmental-account-for-waste:d5006665bd7ab3077427302c504e6fc0&#34;&gt;What is an environmental account for waste?&lt;/h2&gt;
+&lt;h2 id=&#34;what-is-an-environmental-account-for-waste&#34;&gt;What is an environmental account for waste?&lt;/h2&gt;
 
 &lt;p&gt;The environmental account for waste is a framework that describes in detail the production, reuse, disposal and the various types of residuals generated by the different stakeholders in the economy. It makes a link between information on solid residuals and economic indicators. More specifically, it:&lt;/p&gt;
 
@@ -319,7 +319,7 @@
 &lt;li&gt;Provides a set of indicators in order to monitor economic performance and waste production.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&#34;what-do-we-know-about-waste-production-in-guatemala:d5006665bd7ab3077427302c504e6fc0&#34;&gt;What do we know about waste production in Guatemala?&lt;/h2&gt;
+&lt;h2 id=&#34;what-do-we-know-about-waste-production-in-guatemala&#34;&gt;What do we know about waste production in Guatemala?&lt;/h2&gt;
 
 &lt;p&gt;One of the first findings when putting together this framework is that waste is a growning problem. Between 2001 and 2006, waste production grew over 70%, going from 81.9 million metric tons in 2001 to 113.8 million in 2006. Waste production by economic industries grew a total of 39.4% during those years, while that of households reached 12.4%. While economic growth is important, we have to acknowledge the increase in waste that that represents and define clear waste management strategies and market rules.&lt;/p&gt;
 
@@ -333,7 +333,7 @@
 
 &lt;p&gt;It is interesting to note that the single industry with the most waste production is the manufacture of meat products which grew steadily between 2001 and 2004, with a slight decrease in 2005. Another relevant industry is the manufacture of chemical products, which tripled its waste production between 2001 and 2006, and in the case of the non-metallic mineral extraction industries we estimated an increase in waste from 10.1 million metric tons in 2001 to 13.8 million in 2006. Agriculture remained stable with 12.7 million metric tons in 2001 and 13.5 in 2006.&lt;/p&gt;
 
-&lt;h2 id=&#34;what-type-of-residuals-are-considered-by-the-waste-account:d5006665bd7ab3077427302c504e6fc0&#34;&gt;What type of residuals are considered by the waste account?&lt;/h2&gt;
+&lt;h2 id=&#34;what-type-of-residuals-are-considered-by-the-waste-account&#34;&gt;What type of residuals are considered by the waste account?&lt;/h2&gt;
 
 &lt;p&gt;Waste comes in a variety of forms, and because of this it is important that we use a consistent classification that allows us to compare and monitor over time. The waste account provides estimates for:&lt;/p&gt;
 
@@ -373,7 +373,7 @@
 &lt;em&gt;Figure 3. Solid waste output by selected types 2001-2006 (million metric metric tons)&lt;/em&gt;
 &lt;hr&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;how-is-waste-reused-and-what-do-we-know-about-its-management:d5006665bd7ab3077427302c504e6fc0&#34;&gt;How is waste reused and what do we know about its management?&lt;/h2&gt;
+&lt;h2 id=&#34;how-is-waste-reused-and-what-do-we-know-about-its-management&#34;&gt;How is waste reused and what do we know about its management?&lt;/h2&gt;
 
 &lt;p&gt;The Guatemalan manufacturing industries are the largest re-users of the various types of waste. While reuse showed a general stable trend, towards the last year of analysis (2006) there was a relevant spike, reaching about 10 million metric tons. This number is 44% higher than that of 2001 and 36% higher than that of 2005. The production of electricity is also important in the reuse of waste with about 6 million metric tons in its highest year&amp;mdash;2004. A distant third, the industries related to agriculture fluctuate around a reuse of a million metric tons. Households and service industries reused waste at a much lower scale.&lt;/p&gt;
 
@@ -409,13 +409,13 @@
 &lt;p&gt;&lt;small&gt;Source: Iarna/Banguat (2009)&lt;/small&gt;
 &lt;hr&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;so-how-much-waste-goes-straight-to-the-environment:d5006665bd7ab3077427302c504e6fc0&#34;&gt;So, how much waste goes straight to the environment?&lt;/h2&gt;
+&lt;h2 id=&#34;so-how-much-waste-goes-straight-to-the-environment&#34;&gt;So, how much waste goes straight to the environment?&lt;/h2&gt;
 
 &lt;p&gt;The difference between that which becomes waste, and the fraction that is reused goes straight to the environment. In the case of Guatemala, the largest flow of waste to the environment is vegetable and animal waste; about 58.3 million metric tons, or about 60% of total residuals. Manufactures contribute the most of these types of waste with about 44 million metric tons, followed by the group of agriculture, forestry, and fisheries with 19 million metric tons. Muds are second in importance, which represent about 22% of total waste disposal, and are the sole responsibility of industries. Mineral waste represents 14% of total disposal, and is also a flow that comes from manufacturing industries (13.7 million metric tons). Finally, non-metallic waste is also relevant, with 1.6 million tons, but it only represents about 2% of total disposal, and it is contributed by manufactures and households.&lt;/p&gt;
 
 &lt;!-- Table 2. Total disposal by type of waste in 2006 (metric tons) --&gt;
 
-&lt;h2 id=&#34;what-s-the-situation-of-waste-management:d5006665bd7ab3077427302c504e6fc0&#34;&gt;What&amp;rsquo;s the situation of waste management?&lt;/h2&gt;
+&lt;h2 id=&#34;what-s-the-situation-of-waste-management&#34;&gt;What&amp;rsquo;s the situation of waste management?&lt;/h2&gt;
 
 &lt;p&gt;Among other things, waste management depends on the level of public expenditure allocated for it. In 2006, that value reached GTQ 1.4 billion, of which 56% comes from departmental governments, 33% from local municipalities, and 11% from the central government. In this last case, this type of expenditure represents only 0.4% of total environmental expenditure made by the central government, and for departmental and local governments 3% and 1%, respectively. Waste management reaches about 1.3% of total country environmental expenditure.&lt;/p&gt;
 
@@ -427,7 +427,7 @@
 &lt;em&gt;Figure 8. Environmental expenditure destined to waste management (millions of GTQ and percentages)&lt;/em&gt;
 &lt;hr&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;how-intense-is-waste-disposal-relative-to-wealth-generation:d5006665bd7ab3077427302c504e6fc0&#34;&gt;How intense is waste disposal relative to wealth generation?&lt;/h2&gt;
+&lt;h2 id=&#34;how-intense-is-waste-disposal-relative-to-wealth-generation&#34;&gt;How intense is waste disposal relative to wealth generation?&lt;/h2&gt;
 
 &lt;p&gt;It is possible to evaluate the amount of waste generated for every monetary unit of value added (quetzales) contributed to GDP. In 2004 this intensity reached its highest point with 527 metric tons of waste per unit of value added, and by 2006 that number had dropped to 443 metric tons. This means that the pressure on the environment in terms of waste is relatively high.&lt;/p&gt;
 
@@ -439,7 +439,7 @@
 &lt;em&gt;Figure 9. Waste intensity (waste output / value added)&lt;/em&gt;
 &lt;hr&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;summary:d5006665bd7ab3077427302c504e6fc0&#34;&gt;Summary&lt;/h2&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 
 &lt;p&gt;In this essay, we introduced a framework for the analysis of waste disposal at a national level, based on the System of Environmental and Economic Accounts. The waste account of Guatemala describes in detail the production, reuse, disposal and the various types of residuals generated by the different stakeholders in the economy. It makes a link between information on solid residuals and economic indicators. From its findings, we found relevant that:&lt;/p&gt;
 
@@ -464,13 +464,13 @@
       <guid>http://seeagt.github.io/report/forests/</guid>
       <description>
 
-&lt;h2 id=&#34;what-is-a-forest-account:ff7c6b867028966d16b57bf945b44cf7&#34;&gt;What is a forest account?&lt;/h2&gt;
+&lt;h2 id=&#34;what-is-a-forest-account&#34;&gt;What is a forest account?&lt;/h2&gt;
 
 &lt;p&gt;The forest account of Guatemala is a framework that explains the relationship between forests and the economy. It puts together information on the status of forests and economic transactions associated with them in a systematic manner. It reveals the real contribution of forests to the national economy and the possible impacts that the economy might have on the well-being of forests.&lt;/p&gt;
 
 &lt;p&gt;More specifically forest accounting measures the stocks of the national forest inventory and the flows associated with it; it identifies the industries and stakeholders that benefit directly or indirectly from forests; it records expenditures made by government institutions in order to mitigate damages to and restore the well-being of forests; and extend macro-economic aggregates and indicators in order to reflect the depreciation of the forest resources.&lt;/p&gt;
 
-&lt;h2 id=&#34;what-s-the-status-of-forests-in-guatemala:ff7c6b867028966d16b57bf945b44cf7&#34;&gt;What&amp;rsquo;s the status of forests in Guatemala?&lt;/h2&gt;
+&lt;h2 id=&#34;what-s-the-status-of-forests-in-guatemala&#34;&gt;What&amp;rsquo;s the status of forests in Guatemala?&lt;/h2&gt;
 
 &lt;p&gt;In order to answer this question we turn to the change of forest land stock in comparison with 1970 and to an indicator of this change relative to population (forest land stock per capita). As for changes in land stock, by 2005 Guatemala had lost close to 40% of its 1970 availability. More illustrative is the fact that due to high population growth rates, availability of forests per capita have dropped in a relevant way.&lt;/p&gt;
 
@@ -496,7 +496,7 @@
 
 &lt;p&gt;The rise uncontrolled traffic of forest products is consistent with (i) a lack of institutional capabilities for control, (ii) an ineffective control system for the transportation of forest products, (iii) the lack of an effective transportation permit issuing system, (iv) obscure market practices that operate under the legal umbrella of family forest allowances, and (v) a lack of raw materials origin control within the wood processing industries.&lt;/p&gt;
 
-&lt;h2 id=&#34;what-is-the-monetary-value-of-the-guatemalan-forests:ff7c6b867028966d16b57bf945b44cf7&#34;&gt;What is the monetary value of the Guatemalan forests?&lt;/h2&gt;
+&lt;h2 id=&#34;what-is-the-monetary-value-of-the-guatemalan-forests&#34;&gt;What is the monetary value of the Guatemalan forests?&lt;/h2&gt;
 
 &lt;p&gt;The forest account assigned market valuations to standing timber between 2001-2006. In that period the value of forests went from 56,351.9 million quetzales (GTQ) to 83,467 million. This is a behavior more consistent with non-renewables than with renewable resources and hints that forests might be used unsustainably. Under sustainable practices, forest regeneration should provide constant availability at stable prices.&lt;/p&gt;
 
@@ -520,7 +520,7 @@
 &lt;em&gt;Figure 4. Forest stock variation in monetary terms for the year 2006 (million GTQ)&lt;/em&gt;
 &lt;hr&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;how-are-forest-products-used-in-the-economy:ff7c6b867028966d16b57bf945b44cf7&#34;&gt;How are forest products used in the economy?&lt;/h2&gt;
+&lt;h2 id=&#34;how-are-forest-products-used-in-the-economy&#34;&gt;How are forest products used in the economy?&lt;/h2&gt;
 
 &lt;p&gt;In terms of volume, households are the largest users of forest products, using 22.6 million m&lt;sup&gt;3&lt;/sup&gt;, which represented about 67% of total national consumption. Most of that use (92%) corresponded to fuelwood use. The remainder is mostly used by the saw mill industry and the production of furniture.&lt;/p&gt;
 
@@ -556,7 +556,7 @@
 &lt;em&gt;Figure 7. Demand of forest products in 2006 (percentages of total use at purchaser prices)&lt;/em&gt;
 &lt;hr&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;what-is-the-impact-of-depreciation-of-forests-on-economic-measures:ff7c6b867028966d16b57bf945b44cf7&#34;&gt;What is the impact of depreciation of forests on economic measures?&lt;/h2&gt;
+&lt;h2 id=&#34;what-is-the-impact-of-depreciation-of-forests-on-economic-measures&#34;&gt;What is the impact of depreciation of forests on economic measures?&lt;/h2&gt;
 
 &lt;p&gt;One important finding of the forest account is that the real contribution of forest products to the national economy circles around 3.15% and 2.57% for the years 2001 and 2006, respectively; while normal GDP measures attribute only contributions of 1.02% and 0.93% in the same years, respectively.&lt;/p&gt;
 
@@ -590,7 +590,7 @@
 &lt;em&gt;Figure 10. Comparison between depreciation of forest resources and forest protection expenditure in 2006 (percentages)&lt;/em&gt;
 &lt;hr&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;final-remarks:ff7c6b867028966d16b57bf945b44cf7&#34;&gt;Final remarks&lt;/h2&gt;
+&lt;h2 id=&#34;final-remarks&#34;&gt;Final remarks&lt;/h2&gt;
 
 &lt;p&gt;We have introduced the forest account of Guatemala; a framework that explains the relationship between forests and the economy, bringing together information in order to reveal the real contribution of forests to the national economy and the possible impacts that the economy might have on the well-being of forests. Some of the most important findings include:&lt;/p&gt;
 
@@ -616,7 +616,7 @@
       <guid>http://seeagt.github.io/report/ecosystems/</guid>
       <description>
 
-&lt;h2 id=&#34;what-is-a-land-and-ecosystems-account:54049ca00c09602b7b492d17f6f590a5&#34;&gt;What is a land and ecosystems account?&lt;/h2&gt;
+&lt;h2 id=&#34;what-is-a-land-and-ecosystems-account&#34;&gt;What is a land and ecosystems account?&lt;/h2&gt;
 
 &lt;p&gt;The Land and Ecosystems account is a framework that determines the current status of the different eco-regions of Guatemala in physical terms and quantifies the rate of their use through an analysis of land use change and its effects on forest cover. Furthermore, it identifies the economic stakeholders that drive those changes.&lt;/p&gt;
 
@@ -669,7 +669,7 @@
 
 &lt;hr&gt;
 
-&lt;h2 id=&#34;what-can-we-say-about-the-current-status-of-land-use-in-those-regions:54049ca00c09602b7b492d17f6f590a5&#34;&gt;What can we say about the current status of land use in those regions?&lt;/h2&gt;
+&lt;h2 id=&#34;what-can-we-say-about-the-current-status-of-land-use-in-those-regions&#34;&gt;What can we say about the current status of land use in those regions?&lt;/h2&gt;
 
 &lt;p&gt;Forest cover reached 4.2 million hectares in 2003, which was about 39% of the country&amp;rsquo;s area. Conversely, land used for agriculture represented about 28% of the territory, and a combination of pastures, grasslands, shrubs and bushes took up about 31%. The distribution of the different land uses within the eco-regions was highly irregular, and it is noteworthy that over 30% of the total area was destined for perennial and annual crops in 7 of the 14 regions.&lt;/p&gt;
 
@@ -694,7 +694,7 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 &lt;em&gt;Figure 4. Land use in Guatemala by Basin (2003)&lt;/em&gt;
 &lt;hr&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;how-have-forests-changed:54049ca00c09602b7b492d17f6f590a5&#34;&gt;How have forests changed?&lt;/h2&gt;
+&lt;h2 id=&#34;how-have-forests-changed&#34;&gt;How have forests changed?&lt;/h2&gt;
 
 &lt;p&gt;In addition to understanding the current forest cover of a territory, it is illustrative to see how the forest has degraded over a certain period. In order to achieve this, we compare and contrast maps of forest cover built from satellite images. These maps require the work of several technicians from several institutions working together, and for this reason these maps are only published every few years. At the time of this comparison, only maps from 1991 and 2003 were available.&lt;/p&gt;
 
@@ -708,7 +708,7 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 &lt;em&gt;Figure 5. Evolution of deforestation in Guatemala&amp;rsquo;s eco-regions between 1991 and 2003&lt;/em&gt;
 &lt;hr&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;are-these-eco-regions-capable-of-producing-environmental-services:54049ca00c09602b7b492d17f6f590a5&#34;&gt;Are these eco-regions capable of producing environmental services?&lt;/h2&gt;
+&lt;h2 id=&#34;are-these-eco-regions-capable-of-producing-environmental-services&#34;&gt;Are these eco-regions capable of producing environmental services?&lt;/h2&gt;
 
 &lt;p&gt;Evaluating the health of an ecosystem is a difficult task given the complexities of natural interactions. Nevertheless, there were indicators that we could use as proxies for ecosystem well-being. In that sense we evaluated forest density, forest fragmentation, and ecological integrity.&lt;/p&gt;
 
@@ -740,13 +740,13 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 &lt;em&gt;Figure 7. Forest fragments with ecological integrity (2003)&lt;/em&gt;
 &lt;hr&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;what-drives-the-changes:54049ca00c09602b7b492d17f6f590a5&#34;&gt;What drives the changes?&lt;/h2&gt;
+&lt;h2 id=&#34;what-drives-the-changes&#34;&gt;What drives the changes?&lt;/h2&gt;
 
 &lt;p&gt;A total of 73% of the 880,200 hectares that lost their forest cover between 1991 and 2003 became lands for agricultural uses. This is consistent with the transformation of 642,424 hectares of forest to annual and perennial crops (133,230 hectares), shrubs and bushes (289,133 hectares), and pastures (133,230 hectares). About 80% of forests from Arbustal espinoso del Valle del Motagua, Rainforests of the Chiapas Sierra Madre, Rainforests of Petén-Veracruz, and Dry Forests of Central America, changed to either crops, shrubs, bushes, or pastures.&lt;/p&gt;
 
 &lt;!--**[Table 2. Changes in forest cover and other uses in hectares between 1991 and 2003]**--&gt;
 
-&lt;h2 id=&#34;what-are-the-economic-costs-of-the-degradation:54049ca00c09602b7b492d17f6f590a5&#34;&gt;What are the economic costs of the degradation?&lt;/h2&gt;
+&lt;h2 id=&#34;what-are-the-economic-costs-of-the-degradation&#34;&gt;What are the economic costs of the degradation?&lt;/h2&gt;
 
 &lt;p&gt;We evaluated the loss of two environmental services in order to determine effects of the degradation of forests. On the one hand we assessed the loss of the ability of forests to control erosion, and on the other we studied their capacity to store carbon. Our data showed that losses regarding these factors were equivalent to Q2,919.4 million  (about $374.3 million) between 1991 and 2003.&lt;/p&gt;
 
@@ -754,7 +754,7 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 
 &lt;p&gt;As a consequence of the loss of forest cover, 368,622,243 tons of CO&lt;sub&gt;2&lt;/sub&gt; were released into the atmosphere, with at total cost of Q.1,769.4 million (about $226.8 million) at international carbon market prices. Of these losses, 85% can be attributed to the loss of forest cover in the Rainforests of Petén-Veracruz and the Pine-Oak Forests of Central America.&lt;/p&gt;
 
-&lt;h2 id=&#34;summary:54049ca00c09602b7b492d17f6f590a5&#34;&gt;Summary&lt;/h2&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 
 &lt;p&gt;In this essay we reviewed the findings of the land and ecosystems account of Guatemala. This account is a framework that determines the current status of the different eco-regions of Guatemala in physical terms and quantifies the rate of their use through an analysis of land use change and its effects on forest cover.&lt;/p&gt;
 
@@ -780,13 +780,13 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
       <guid>http://seeagt.github.io/report/aff/</guid>
       <description>
 
-&lt;h2 id=&#34;what-is-an-agriculture-forestry-and-fisheries-account:45af15fedfdd005d7e7870f81b067efc&#34;&gt;What is an Agriculture, Forestry, and Fisheries account?&lt;/h2&gt;
+&lt;h2 id=&#34;what-is-an-agriculture-forestry-and-fisheries-account&#34;&gt;What is an Agriculture, Forestry, and Fisheries account?&lt;/h2&gt;
 
 &lt;p&gt;The System of Environmental-Economic Accounting for Agriculture, Forestry and Fisheries (SEEA AFF) is a framework that describes the relationship between the environment and the economy with an emphasis on agriculture, forestry and fisheries (FAO, 2015).&lt;/p&gt;
 
 &lt;p&gt;On the one hand, it allows us to determine the level of stocks that are present in the production, processing and consumption of food, and other environmental services ascribed to agriculture, forestry, and fisheries. It also tracks the flows of natural inputs between the environment and the economy, as well as within the economy of these and other sectors. Finally, it also reflects environmental degradation that can occur from these exchanges.&lt;/p&gt;
 
-&lt;h2 id=&#34;and-what-kind-of-information-does-it-contain:45af15fedfdd005d7e7870f81b067efc&#34;&gt;And what kind of information does it contain?&lt;/h2&gt;
+&lt;h2 id=&#34;and-what-kind-of-information-does-it-contain&#34;&gt;And what kind of information does it contain?&lt;/h2&gt;
 
 &lt;p&gt;The SEEA AFF aims to keep track of the following data domains and base accounts:&lt;/p&gt;
 
@@ -841,11 +841,11 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 
 --&gt;
 
-&lt;h2 id=&#34;has-it-already-been-put-together-for-guatemala:45af15fedfdd005d7e7870f81b067efc&#34;&gt;Has it already been put together for Guatemala?&lt;/h2&gt;
+&lt;h2 id=&#34;has-it-already-been-put-together-for-guatemala&#34;&gt;Has it already been put together for Guatemala?&lt;/h2&gt;
 
 &lt;p&gt;Guatemala became one of the test cases of SEEA AFF and we conducted a pilot compilation with existing information of the SEEA Central Framework already present for 2010, in order to assess what was possible and identify information gaps on which more detailed work is needed. Nonetheless, some of the preliminary findings are already revealing.&lt;/p&gt;
 
-&lt;h2 id=&#34;what-do-we-know-about-crops-then:45af15fedfdd005d7e7870f81b067efc&#34;&gt;What do we know about crops then?&lt;/h2&gt;
+&lt;h2 id=&#34;what-do-we-know-about-crops-then&#34;&gt;What do we know about crops then?&lt;/h2&gt;
 
 &lt;p&gt;For example, table 1 shows the output and import of various crops in metric tons for Guatemala in 2010. In terms of volume, sugar cane was by far the largest output of this group of products, followed by the production of bananas and maize. But if we were to take out sugar cane and bananas from this comparison because of their highly industrialized nature geared towards exports, we could quickly see that maize took up a third of the remaining products combined supply. Maize was followed closely by the group called &amp;ldquo;other vegetables&amp;rdquo; with a share of output of 16% and &amp;ldquo;other fruits&amp;rdquo; with 12% of this more limited group (without sugar cane and bananas).&lt;/p&gt;
 
@@ -891,7 +891,7 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 
 &lt;hr&gt;
 
-&lt;h2 id=&#34;how-important-is-the-food-processing-industry:45af15fedfdd005d7e7870f81b067efc&#34;&gt;How important is the food processing industry?&lt;/h2&gt;
+&lt;h2 id=&#34;how-important-is-the-food-processing-industry&#34;&gt;How important is the food processing industry?&lt;/h2&gt;
 
 &lt;p&gt;It is interesting to pay attention to the share of some products that is used by the food processing industry at the national level (in the manufactures column). For example, in the case of maize, only 20% of all used volume had a final destination in the food processing industries. This is consistent with the 80% (adjusted to extract the negative stock variation) that was consumed by households. It contrasts with the 99% of the supply of unprocessed rice and wheat that was used almost exclusively by the food processing industries. This does not mean that households didn&amp;rsquo;t consume these products. It only means that they did so in their processed versions, such as precooked white rice and dehydrated breakfast gruel. As an example of this, the totality of sugar cane was used by the food processing industry.&lt;/p&gt;
 
@@ -968,7 +968,7 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 &lt;p&gt;&lt;small&gt;Source: Iarna/Banguat (2010)&lt;/small&gt;
 &lt;hr&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;what-do-we-know-about-water-and-energy-use-in-this-context:45af15fedfdd005d7e7870f81b067efc&#34;&gt;What do we know about water and energy use in this context?&lt;/h2&gt;
+&lt;h2 id=&#34;what-do-we-know-about-water-and-energy-use-in-this-context&#34;&gt;What do we know about water and energy use in this context?&lt;/h2&gt;
 
 &lt;p&gt;Food production requires that we ensure water availability during the various growth stages of crops. Table 4 shows the different requirements of land and water for crops. Among uses of water it is important to distinguish between irrigated and rainfed agriculture. In the first case, producers must make sure that there is enough available water of quality for crops to grow. In the second case, producers depend on the availability of rain water, the hydrological cycle, and climate variability.&lt;/p&gt;
 
@@ -1033,7 +1033,7 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 &lt;p&gt;&lt;small&gt;Source: Iarna/Banguat (2010)&lt;/small&gt;
 &lt;hr&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;what-happens-with-fertilizers-and-nutrients-in-guatemala:45af15fedfdd005d7e7870f81b067efc&#34;&gt;What happens with fertilizers and nutrients in Guatemala?&lt;/h2&gt;
+&lt;h2 id=&#34;what-happens-with-fertilizers-and-nutrients-in-guatemala&#34;&gt;What happens with fertilizers and nutrients in Guatemala?&lt;/h2&gt;
 
 &lt;p&gt;Statistical work on the use of fertilizers is at a very early stage in Guatemala and so it can be complicated to supply information in the format proposed by the SEEA AFF manual. However there are some estimations by FAO. For them:&lt;/p&gt;
 
@@ -1074,7 +1074,7 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 &lt;em&gt;Figure 3. Total available calories&lt;/em&gt;
 &lt;hr&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;what-do-we-know-about-the-economics-of-it-all:45af15fedfdd005d7e7870f81b067efc&#34;&gt;What do we know about the economics of it all?&lt;/h2&gt;
+&lt;h2 id=&#34;what-do-we-know-about-the-economics-of-it-all&#34;&gt;What do we know about the economics of it all?&lt;/h2&gt;
 
 &lt;p&gt;Table 6 shows the contribution of the different agricultural products to the Guatemalan economy in monetary terms for the year 2010. As we can see, the production of crops contributed around 9% of gross production, while cattle farming about 2%; the same as other agricultural products, forestry, and fisheries combined (2%). In total, all this production represents about 12% of the value added of the entire economy in that year.&lt;/p&gt;
 
@@ -1143,7 +1143,7 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 &lt;p&gt;&lt;small&gt;Source: Iarna/Banguat (2010)&lt;/small&gt;
 &lt;hr&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;summarya:45af15fedfdd005d7e7870f81b067efc&#34;&gt;Summarya&lt;/h2&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 
 &lt;p&gt;We&amp;rsquo;ve seen how the information readily available from the System of Environmental and Economic Accounts of Guatemala can be used to implement an Agriculture, Forestry, and Fisheries account as proposed by FAO to a certain extent. While there are still a number of aspect that need to be covered by Guatemalan statistical efforts, some of the findings of this pilot implementation are already revealing.&lt;/p&gt;
 
@@ -1157,7 +1157,7 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 
 &lt;p&gt;Finally, the most important finding regarding energy use is that while agricultural industries use negligible fractions of the total energy use of Guatemala (less than 1%), households do use about 40% of it in the form of fuelwood for cooking. Judging by the considerably less energy use of households in the form of liquefied gas and electricity, it is safe to imply that Guatemalan food is to a great extent cooked with fuelwood.&lt;/p&gt;
 
-&lt;h2 id=&#34;references:45af15fedfdd005d7e7870f81b067efc&#34;&gt;References:&lt;/h2&gt;
+&lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;BANGUAT [Banco de Guatemala] (2007). Sistema de Cuentas Nacionales 1993 –SCN93– Año base 2001 (Aspectos Metodológicos). Tomo I. Guatemala: Banco de Guatemala.&lt;/li&gt;
@@ -1188,7 +1188,7 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 
 &lt;!--  --&gt;
 
-&lt;h2 id=&#34;what-is-a-water-account-and-what-is-it-for:af8f8b90521da410b93191bf17464492&#34;&gt;What is a water account and what is it for?&lt;/h2&gt;
+&lt;h2 id=&#34;what-is-a-water-account-and-what-is-it-for&#34;&gt;What is a water account and what is it for?&lt;/h2&gt;
 
 &lt;p&gt;The water account of Guatemala is a framework with which we describe the intricate relationships between the economy and the use of water as a natural resource. Information on water sources is linked with information about the various stakeholders in the economy, such as industries and consumers. More specifically, the water account:&lt;/p&gt;
 
@@ -1199,7 +1199,7 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 &lt;li&gt;Provides a set of indicators suited to monitor the environmental and economic performance of the economy.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;what-are-the-general-trends-regarding-water-interactions-in-guatemala:af8f8b90521da410b93191bf17464492&#34;&gt;What are the general trends regarding water interactions in Guatemala?&lt;/h2&gt;
+&lt;h2 id=&#34;what-are-the-general-trends-regarding-water-interactions-in-guatemala&#34;&gt;What are the general trends regarding water interactions in Guatemala?&lt;/h2&gt;
 
 &lt;p&gt;We first turn to the use of water, which we can understand as either consumption of water in processes that delay its return to the water cycle, such as household uses, industrial uses, and agricultural uses, as well as its use in processes that return it immediately to the environment, such as electricity generation. Figure 2 shows some variation in the use of water between 2001 and 2006 and results suggest that a slowdown of the production of coffee at the beginning of the decade might have contributed in a relevant manner to this behavior.&lt;/p&gt;
 
@@ -1221,7 +1221,7 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 
 &lt;p&gt;Figure 2 shows an erratic behavior in the use of water with a steady growth of 2.5% of the Guatemalan population. This suggest that population growth is a poor indicator of water use variation. If we don&amp;rsquo;t take into account the processing of coffee, water increased at a rate of between 4% and 7% between 2001 and 2006, a trend which is likely to continue in the future.&lt;/p&gt;
 
-&lt;h2 id=&#34;but-what-do-we-know-about-the-water-use-of-other-industries:af8f8b90521da410b93191bf17464492&#34;&gt;But, what do we know about the water use of other industries?&lt;/h2&gt;
+&lt;h2 id=&#34;but-what-do-we-know-about-the-water-use-of-other-industries&#34;&gt;But, what do we know about the water use of other industries?&lt;/h2&gt;
 
 &lt;p&gt;To answer this question, we first turn to the agricultural industries. In our analysis, we took into account the rain water that was used by crops in their different growth stages. This is called rainfed irrigation and we chose to include it because it reflects the real contribution of water to our economy in a better manner. Figure 4 shows the trend of the largest water using industries of Guatemala. As expected by the introduction above, rainfed agriculture is the largest of all water using industries, with a share of about 40% of total use. It is followed by manufactures, which used between 35% and 24% in the accounting years.&lt;/p&gt;
 
@@ -1245,7 +1245,7 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 &lt;em&gt;Figure 4. Water extraction for selected industries (percentages)&lt;/em&gt;
 &lt;hr&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;do-we-have-information-on-agricultural-uses-of-water:af8f8b90521da410b93191bf17464492&#34;&gt;Do we have information on agricultural uses of water?&lt;/h2&gt;
+&lt;h2 id=&#34;do-we-have-information-on-agricultural-uses-of-water&#34;&gt;Do we have information on agricultural uses of water?&lt;/h2&gt;
 
 &lt;p&gt;The amount of water used by different crops depends on the different requirements of each cycle of plant growth, total cultivated area, total area under irrigation, and irrigation methods used. Table 1 shows estimates for the most important crops in Guatemala. This group represented about 87% of total water used by agriculture and 75% of the demand of water for irrigation in 2003. In this sense, sugar cane production stands out with 43% of total irrigation.&lt;/p&gt;
 
@@ -1276,7 +1276,7 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 
 &lt;p&gt;Regardless of whether crops are irrigated or not, it is evident that water is of extreme importance to food security (staple foods) and exports (sugar cane and coffee).&lt;/p&gt;
 
-&lt;h2 id=&#34;how-about-industrial-uses-of-water:af8f8b90521da410b93191bf17464492&#34;&gt;How about industrial uses of water?&lt;/h2&gt;
+&lt;h2 id=&#34;how-about-industrial-uses-of-water&#34;&gt;How about industrial uses of water?&lt;/h2&gt;
 
 &lt;p&gt;Manufacturing industries used around 8.7 million m&lt;sup&gt;3&lt;/sup&gt; of water in 2003. Table 9 shows selected industries with the largest uses. Once again, coffee processing stands out with an 87% share of all water used by manufactures (about 7.6 million m&lt;sup&gt;3&lt;/sup&gt;). Other important groups of manufacturing industries are food production and sugar production with around 8% and 2.5% of total water used by manufactures, respectively.&lt;/p&gt;
 
@@ -1305,7 +1305,7 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 
 &lt;hr&gt;
 
-&lt;h2 id=&#34;what-do-we-know-about-water-uses-of-other-industries-and-consumers:af8f8b90521da410b93191bf17464492&#34;&gt;What do we know about water uses of other industries and consumers?&lt;/h2&gt;
+&lt;h2 id=&#34;what-do-we-know-about-water-uses-of-other-industries-and-consumers&#34;&gt;What do we know about water uses of other industries and consumers?&lt;/h2&gt;
 
 &lt;p&gt;It is important to point out that the third largest use of water in the country is the production of electricity. This industry may only use water and not consume it, but its final product&amp;mdash;electricity&amp;mdash;makes a relevant contribution to the generation of wealth in the economy (or gross domestic product). In 2001 the share of total water use of electricity production was 11% and it grew to 15% towards the end of the analysis years; in 2006.&lt;/p&gt;
 
@@ -1331,7 +1331,7 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 
 &lt;hr&gt;
 
-&lt;h2 id=&#34;how-is-this-information-different-from-what-we-already-know-from-national-accounts-and-other-sources:af8f8b90521da410b93191bf17464492&#34;&gt;How is this information different from what we already know from National Accounts and other sources?&lt;/h2&gt;
+&lt;h2 id=&#34;how-is-this-information-different-from-what-we-already-know-from-national-accounts-and-other-sources&#34;&gt;How is this information different from what we already know from National Accounts and other sources?&lt;/h2&gt;
 
 &lt;p&gt;In the System of National Accounts of Guatemala only water that is the subject of economic transactions is recorded, and given the institutional framework of water access in Guatemala, most water uses do not fit that category. Most rain water and water extracted from wells for own use in industry and some residential complexes is not the subject of payments between economic stakeholders, and so it is not recorded by the system of national accounts. There is however an exception, and that is the small fraction of water that is channeled through municipal or private distribution companies and which is charged to some connected households and small to medium enterprises.&lt;/p&gt;
 
@@ -1366,7 +1366,7 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 
 &lt;hr&gt;
 
-&lt;h2 id=&#34;summary:af8f8b90521da410b93191bf17464492&#34;&gt;Summary&lt;/h2&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 
 &lt;p&gt;We have described the importance of water for various production and consumption processes in the economy using the framework of the System of Environmental and Economic Accounts.&lt;/p&gt;
 
@@ -1390,7 +1390,7 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
       <guid>http://seeagt.github.io/report/energy/</guid>
       <description>
 
-&lt;h2 id=&#34;energy-the-environment-and-the-guatemalan-economy-in-a-nutshell:3cc96d9b80e0f953d1c554f50c09bdb0&#34;&gt;Energy, the environment, and the Guatemalan economy in a nutshell&lt;/h2&gt;
+&lt;h2 id=&#34;energy-the-environment-and-the-guatemalan-economy-in-a-nutshell&#34;&gt;Energy, the environment, and the Guatemalan economy in a nutshell&lt;/h2&gt;
 
 &lt;p&gt;Nature provides the Guatemalan economy with coal, wind, power derived from water and thermal sources, fuelwood, sugar cane bagasse, and crude oil, among others. These are called &amp;ldquo;primary sources&amp;rdquo; of energy because they are usable in their natural form to some extent. We can take advantage of them locally or we can import them from the rest of the world. However, most of the economy&amp;rsquo;s productive processes cannot take advantage of these sources in their raw form, and so they are transformed into what we call secondary sources of energy. Examples of this type of energy include the various types of gasolines and diesel fuels, liquefied petroleum gas, and electricity.&lt;/p&gt;
 
@@ -1398,7 +1398,7 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 
 &lt;p&gt;Finally, from the combustion&amp;mdash;or simply burning&amp;mdash;of some these energy products, industries emit various gases that go up into the atmosphere. Some of these are known as greenhouse gases and in our accounting efforts we have tracked carbon dioxide (CO&lt;sub&gt;2&lt;/sub&gt;), nitrous oxide (N&lt;sub&gt;2&lt;/sub&gt;O), and methane (CH&lt;sub&gt;4&lt;/sub&gt;).&lt;/p&gt;
 
-&lt;h2 id=&#34;how-does-energy-flow-from-the-environment-to-the-economy:3cc96d9b80e0f953d1c554f50c09bdb0&#34;&gt;How does energy flow from the environment to the economy?&lt;/h2&gt;
+&lt;h2 id=&#34;how-does-energy-flow-from-the-environment-to-the-economy&#34;&gt;How does energy flow from the environment to the economy?&lt;/h2&gt;
 
 &lt;p&gt;Between 2001 and 2006, the Guatemalan economy used several types of energy resources directly from the environment in order to satisfy both the needs of industries and households. Water&amp;rsquo;s potential energy and thermal energy from volcanic activity were key resources in the production of electricity. The country also extracted crude oil and natural gas in some regions, which were destined almost exclusively for the export market. Guatemalans also imported coal from other countries mainly for the production of electricity. Nevertheless, in Guatemala the biggest source of energy obtained directly from the environment was biomass in the form of fuelwood for domestic use and sugarcane bagasse, mainly used as an input in the production of electricity.&lt;/p&gt;
 
@@ -1425,9 +1425,9 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 
 &lt;hr&gt;
 
-&lt;h2 id=&#34;how-does-energy-move-within-the-economy:3cc96d9b80e0f953d1c554f50c09bdb0&#34;&gt;How does energy move within the economy?&lt;/h2&gt;
+&lt;h2 id=&#34;how-does-energy-move-within-the-economy&#34;&gt;How does energy move within the economy?&lt;/h2&gt;
 
-&lt;p&gt;A total of 483,947.3 TJ&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3cc96d9b80e0f953d1c554f50c09bdb0:8&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:3cc96d9b80e0f953d1c554f50c09bdb0:8&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; of energy in all its forms was available to the Guatemalan economy in 2006. That energy was used as inputs in the production of goods and services by several industries, and also by households, the government, and non-profit institutions in processes such as cooking, artificial lighting, heating, or cooling.&lt;/p&gt;
+&lt;p&gt;A total of 483,947.3 TJ&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:8&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:8&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; of energy in all its forms was available to the Guatemalan economy in 2006. That energy was used as inputs in the production of goods and services by several industries, and also by households, the government, and non-profit institutions in processes such as cooking, artificial lighting, heating, or cooling.&lt;/p&gt;
 
 &lt;p&gt;The figure shows quantities of energy in terajoules used by the different economic industries and households in the rows, coming from the various energy sources in the columns. Darker tones represent higher uses of energy relative to total consumption. According to this, household final consumption of represented around 47% of total use and even surpassed slightly all consumption of energy used as inputs in production processes (46%). This was due not only to the fact that households were the main users of fuelwood (which has a high calorific content), but also of gasoline, liquefied petroleum gas for cooking, and electricity.&lt;/p&gt;
 
@@ -1448,7 +1448,7 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 &lt;em&gt;Figure 2. Largest users of energy, 2006 (terajoules)&lt;/em&gt;
 &lt;hr&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;what-happens-with-greenhouse-gas-emissions:3cc96d9b80e0f953d1c554f50c09bdb0&#34;&gt;What happens with Greenhouse Gas Emissions?&lt;/h2&gt;
+&lt;h2 id=&#34;what-happens-with-greenhouse-gas-emissions&#34;&gt;What happens with Greenhouse Gas Emissions?&lt;/h2&gt;
 
 &lt;p&gt;The total human contribution to greenhouse gas emissions from the combustion of different energy sources in Guatemala amounted to 45.6 million carbon dioxide metric tons equivalent in 2006. In general terms, that was less than 1% of total world emissions. Nevertheless, since it is such an important topic in general terms, it could still carry financial consequences or opportunities regarding international treaties on the matter and we need to track its performance. Table 11 shows the distribution of emissions among groups of economic industries.&lt;/p&gt;
 
@@ -1464,7 +1464,7 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).&lt;/p&
 
 &lt;p&gt;The second industry on the graph is the production of bread which is there because of its high use of fuelwood. In a GHG inventory (those advocated by the Inter Governmental Panel on Climate Change) emissions from biomass do not count toward the total emissions and are left as &amp;ldquo;memorandum items&amp;rdquo;, this in order to avoid double counting. In the supply and use accounting structure of the SEEA, this is not a problem, and hence they were included. If fuelwood and bagasse were excluded, bakeries and mills would exit this list and cement production and retail trade would replace them. Finally, due to its high use of different fuels, the transportation industry was also important in this context.&lt;/p&gt;
 
-&lt;h2 id=&#34;with-what-intensity-is-energy-used-by-industries:3cc96d9b80e0f953d1c554f50c09bdb0&#34;&gt;With what intensity is energy used by industries?&lt;/h2&gt;
+&lt;h2 id=&#34;with-what-intensity-is-energy-used-by-industries&#34;&gt;With what intensity is energy used by industries?&lt;/h2&gt;
 
 &lt;p&gt;Figure 5 shows an indicator called energy intensity for six economic industries for 2001-2006. Due to the nature of each type of economic activity, we can find these at different general levels of intensity. Some industries needed less energy to produce one unit of wealth added to the economy in that year (value added), like retail trade for example, and others, like cement production needed considerably more. For that reason it is not altogether adequate to compare intensities between industries. However, it is possible to compare how a specific industry fares through time. In that way, we can see if use of energy per unit of newly added wealth has improved or become worse.&lt;/p&gt;
 
@@ -1529,7 +1529,7 @@ We also computed the decoupling indicator, a measure that measures the gap betwe
 
 --&gt;
 
-&lt;h2 id=&#34;summary:3cc96d9b80e0f953d1c554f50c09bdb0&#34;&gt;Summary&lt;/h2&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 
 &lt;p&gt;In this essay, we have introduced the Energy and Emissions Account of Guatemala. This account is a framework that allows us to understand the intricate relationship between the environment and the economy in terms of energy resources, and at the same time quantify the emissions that result from the combustion of the different types of energy.&lt;/p&gt;
 
@@ -1549,8 +1549,8 @@ We also computed the decoupling indicator, a measure that measures the gap betwe
 &lt;hr /&gt;
 
 &lt;ol&gt;
-&lt;li id=&#34;fn:3cc96d9b80e0f953d1c554f50c09bdb0:8&#34;&gt;Some of this energy was produced locally and a portion was imported.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:3cc96d9b80e0f953d1c554f50c09bdb0:8&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:8&#34;&gt;Some of this energy was produced locally and a portion was imported.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:8&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 </description>
